@@ -1,0 +1,208 @@
+track_name,album_name,album_type,release_year,artists,duration,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+The One You Know,Rainier Fog,studio album,2018,Alice In Chains,289,0.000222,0.557,0.772,0.0192,6,0.196,-4.989,0,0.0325,77.533,4,0.567
+Rainier Fog,Rainier Fog,studio album,2018,Alice In Chains,301,0.00011,0.539,0.909,0.613,8,0.128,-5.741,1,0.0342,115.977,4,0.627
+Red Giant,Rainier Fog,studio album,2018,Alice In Chains,325,2.77e-05,0.47,0.845,0.329,6,0.0678,-5.642,1,0.0286,160.018,4,0.371
+Fly,Rainier Fog,studio album,2018,Alice In Chains,318,0.000235,0.517,0.814,0.0617,6,0.182,-5.097,1,0.0263,105.004,4,0.363
+Drone,Rainier Fog,studio album,2018,Alice In Chains,390,0.00118,0.352,0.804,8.52e-05,0,0.0958,-5.731,0,0.0603,131.918,3,0.558
+Deaf Ears Blind Eyes,Rainier Fog,studio album,2018,Alice In Chains,284,2.47e-05,0.308,0.731,0.0575,7,0.186,-5.745,0,0.0298,75.063,4,0.273
+Maybe,Rainier Fog,studio album,2018,Alice In Chains,336,0.000257,0.507,0.757,0.00011,6,0.0971,-5.66,1,0.0309,113.048,4,0.202
+So Far Under,Rainier Fog,studio album,2018,Alice In Chains,273,0.000762,0.48,0.898,0.00356,7,0.0668,-5.459,0,0.0493,134.913,4,0.406
+Never Fade,Rainier Fog,studio album,2018,Alice In Chains,280,3.85e-05,0.52,0.94,0.0713,10,0.123,-5.311,0,0.0356,126.977,4,0.743
+All I Am,Rainier Fog,studio album,2018,Alice In Chains,435,0.000275,0.478,0.742,0.00671,1,0.0996,-5.569,0,0.0293,105.001,4,0.251
+Hollow,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,341,2.2e-05,0.453,0.825,0.593,6,0.372,-5.071,0,0.0352,98.005,3,0.176
+Pretty Done,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,275,6.75e-06,0.415,0.862,0.81,11,0.0629,-4.137,1,0.038,100.001,4,0.323
+Stone,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,262,6.1e-06,0.456,0.867,0.764,1,0.0914,-4.499,1,0.0399,75.991,4,0.558
+Voices,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,342,0.000143,0.509,0.751,0.157,8,0.108,-6.962,1,0.0351,106.003,4,0.133
+The Devil Put Dinosaurs Here,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,398,5.41e-05,0.362,0.767,0.501,5,0.107,-5.499,0,0.0302,92.011,4,0.201
+Lab Monkey,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,358,2.21e-05,0.347,0.741,0.912,6,0.102,-6.066,1,0.0327,108.189,4,0.195
+Low Ceiling,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,315,2.39e-05,0.262,0.824,0.211,10,0.0943,-4.615,0,0.0428,158.054,4,0.377
+Breath on a Window,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,319,5.37e-05,0.253,0.864,0.605,5,0.216,-5.067,0,0.0432,110.07,4,0.403
+Scalpel,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,321,2.36e-05,0.39,0.657,0.392,8,0.117,-5.951,1,0.0312,104.674,4,0.278
+Phantom Limb,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,427,3.67e-05,0.283,0.857,0.769,10,0.119,-3.918,0,0.0444,138.186,4,0.326
+Hung on a Hook,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,334,4.65e-06,0.225,0.562,0.772,1,0.0897,-6.147,1,0.0318,98.814,4,0.067
+Choke,The Devil Put Dinosaurs Here,studio album,2013,Alice In Chains,344,0.000168,0.515,0.695,0.783,3,0.158,-6.518,0,0.0283,103.92,4,0.208
+All Secrets Known,Black Gives Way to Blue,studio album,2009,Alice In Chains,282,4.61e-06,0.384,0.82,0.0291,1,0.137,-5.676,1,0.0464,112.04,3,0.313
+Check My Brain,Black Gives Way to Blue,studio album,2009,Alice In Chains,237,3.28e-06,0.441,0.845,0.0533,10,0.723,-3.315,1,0.0462,113.989,4,0.304
+Last of My Kind,Black Gives Way to Blue,studio album,2009,Alice In Chains,352,2.41e-05,0.477,0.895,0.462,1,0.302,-4.231,1,0.0397,115.973,4,0.371
+Your Decision,Black Gives Way to Blue,studio album,2009,Alice In Chains,283,4.42e-05,0.469,0.631,0.000375,3,0.09,-5.872,0,0.0262,99.96,4,0.192
+A Looking in View,Black Gives Way to Blue,studio album,2009,Alice In Chains,426,5.3e-06,0.274,0.839,0.0326,6,0.257,-4.264,1,0.0489,122.182,4,0.217
+When the Sun Rose Again,Black Gives Way to Blue,studio album,2009,Alice In Chains,240,0.16,0.597,0.468,0.000221,7,0.103,-9.028,0,0.0238,92.008,4,0.435
+Acid Bubble,Black Gives Way to Blue,studio album,2009,Alice In Chains,415,8.64e-06,0.18,0.783,0.0382,5,0.0794,-4.332,0,0.0363,92.289,4,0.246
+Lesson Learned,Black Gives Way to Blue,studio album,2009,Alice In Chains,256,9.27e-06,0.44,0.951,0.00773,1,0.116,-3.639,1,0.0533,108.018,4,0.323
+Take Her Out,Black Gives Way to Blue,studio album,2009,Alice In Chains,240,2.85e-05,0.422,0.842,0.000424,8,0.0621,-4.829,1,0.0407,97.06,4,0.513
+Private Hell,Black Gives Way to Blue,studio album,2009,Alice In Chains,338,5.51e-05,0.388,0.846,0.164,10,0.0828,-5.193,0,0.0335,103.93,4,0.351
+Black Gives Way to Blue,Black Gives Way to Blue,studio album,2009,Alice In Chains,183,0.822,0.205,0.331,0.000695,8,0.0891,-9.265,1,0.0302,179.982,4,0.113
+Black Gives Way to Blue - Piano Mix,Black Gives Way to Blue,studio album,2009,Alice In Chains,180,0.501,0.516,0.294,4.63e-05,8,0.101,-10.383,1,0.0266,89.964,4,0.107
+Your Decision - Live,Black Gives Way to Blue,studio album,2009,Alice In Chains,288,0.00934,0.227,0.763,0.0128,6,0.163,-5.253,1,0.0291,96.619,4,0.223
+Nutshell,Unplugged,live album,1996,Alice In Chains,297,0.328,0.36,0.548,0.217,3,0.971,-12.938,0,0.0468,121.801,3,0.244
+Brother,Unplugged,live album,1996,Alice In Chains,327,0.557,0.405,0.365,0.00048,1,0.89,-10.927,1,0.0307,85.781,4,0.076
+No Excuses,Unplugged,live album,1996,Alice In Chains,297,0.146,0.601,0.77,0.00195,3,0.802,-7.447,1,0.0415,121.067,4,0.723
+Sludge Factory,Unplugged,live album,1996,Alice In Chains,276,0.0399,0.508,0.507,8.41e-06,1,0.943,-8.046,1,0.0257,166.469,3,0.227
+Down In A Hole,Unplugged,live album,1996,Alice In Chains,346,0.0883,0.554,0.515,2.7e-05,6,0.883,-8.534,1,0.024,95.125,4,0.432
+Angry Chair,Unplugged,live album,1996,Alice In Chains,276,0.0632,0.621,0.679,0.000497,8,0.988,-7.961,1,0.0475,109.413,4,0.185
+Rooster,Unplugged,live album,1996,Alice In Chains,401,0.364,0.358,0.329,0.00265,0,0.137,-11.781,0,0.0298,145.04,4,0.141
+Got Me Wrong,Unplugged,live album,1996,Alice In Chains,300,0.116,0.535,0.69,0.000113,8,0.73,-8.956,1,0.045,81.871,4,0.293
+Heaven Beside You,Unplugged,live album,1996,Alice In Chains,337,0.259,0.651,0.701,2.28e-05,1,0.72,-8.198,1,0.0389,112.537,4,0.426
+Would?,Unplugged,live album,1996,Alice In Chains,223,0.0467,0.613,0.7,2.09e-06,10,0.702,-7.779,0,0.0283,100.743,4,0.467
+Frogs,Unplugged,live album,1996,Alice In Chains,450,0.325,0.574,0.398,0.0283,11,0.648,-12.857,1,0.0271,92.041,4,0.084
+Over Now,Unplugged,live album,1996,Alice In Chains,432,0.167,0.608,0.502,0.00626,5,0.244,-10.45,0,0.0404,111.41,4,0.278
+The Killer Is Me,Unplugged,live album,1996,Alice In Chains,323,0.277,0.468,0.682,0.195,1,0.829,-10.156,1,0.0418,121.983,4,0.327
+Grind,Alice In Chains,studio album,1995,Alice In Chains,284,0.000146,0.393,0.883,0.000342,11,0.504,-5.884,1,0.0367,88.417,4,0.364
+Brush Away,Alice In Chains,studio album,1995,Alice In Chains,202,0.102,0.505,0.875,0.00057,10,0.235,-5.624,0,0.0318,105.481,4,0.231
+Sludge Factory,Alice In Chains,studio album,1995,Alice In Chains,432,0.00104,0.3,0.717,0.0142,3,0.165,-6.594,0,0.0307,164.402,4,0.418
+Heaven Beside You,Alice In Chains,studio album,1995,Alice In Chains,327,0.00451,0.551,0.724,0.000167,10,0.116,-7.09,0,0.032,111.243,4,0.559
+Head Creeps,Alice In Chains,studio album,1995,Alice In Chains,388,0.000772,0.317,0.976,0.154,8,0.13,-6.37,1,0.0546,101.505,4,0.243
+Again,Alice In Chains,studio album,1995,Alice In Chains,245,0.000707,0.55,0.868,0.0245,7,0.121,-6.243,1,0.046,123.15,4,0.405
+Shame In You,Alice In Chains,studio album,1995,Alice In Chains,335,0.000838,0.317,0.597,0.0223,8,0.119,-7.959,1,0.0268,140.824,4,0.18
+God Am,Alice In Chains,studio album,1995,Alice In Chains,248,0.00819,0.464,0.923,0.0087,8,0.299,-6.535,0,0.208,157.635,4,0.445
+So Close,Alice In Chains,studio album,1995,Alice In Chains,165,0.000183,0.455,0.973,0.083,4,0.109,-5.278,1,0.0565,142.497,4,0.371
+Nothin' Song,Alice In Chains,studio album,1995,Alice In Chains,340,0.00181,0.303,0.805,0.000222,8,0.375,-7.422,1,0.0444,122.365,4,0.283
+Frogs,Alice In Chains,studio album,1995,Alice In Chains,498,0.028,0.388,0.474,0.468,11,0.116,-9.574,1,0.0283,95.183,4,0.0871
+Over Now,Alice In Chains,studio album,1995,Alice In Chains,423,0.174,0.481,0.566,0.0743,5,0.355,-10.054,0,0.0342,106.634,4,0.302
+Rotten Apple,Jar Of Flies,extended play,1994,Alice In Chains,418,0.215,0.31,0.637,0.116,3,0.0619,-8.595,0,0.037,147.4,4,0.426
+Nutshell,Jar Of Flies,extended play,1994,Alice In Chains,259,0.373,0.384,0.561,0.253,3,0.0775,-10.059,0,0.0296,136.136,3,0.159
+I Stay Away,Jar Of Flies,extended play,1994,Alice In Chains,254,0.0452,0.174,0.781,0.00346,6,0.0822,-7.066,1,0.0406,81.37,4,0.276
+No Excuses,Jar Of Flies,extended play,1994,Alice In Chains,255,0.0206,0.527,0.838,0.00062,3,0.07,-6.013,1,0.0323,117.454,4,0.721
+Whale & Wasp,Jar Of Flies,extended play,1994,Alice In Chains,157,0.926,0.312,0.248,0.866,6,0.188,-10.576,1,0.0311,102.364,4,0.224
+Don't Follow,Jar Of Flies,extended play,1994,Alice In Chains,262,0.781,0.314,0.37,0.139,1,0.122,-9.921,1,0.0286,116.066,1,0.28
+Swing On This,Jar Of Flies,extended play,1994,Alice In Chains,244,0.0438,0.412,0.759,0.0995,5,0.352,-8.045,1,0.0411,129.742,4,0.447
+Them Bones,Dirt,studio album,1992,Alice In Chains,149,0.0235,0.159,0.946,8.06e-06,9,0.387,-5.756,1,0.0629,165.014,1,0.309
+Dam That River,Dirt,studio album,1992,Alice In Chains,189,0.00636,0.427,0.913,0.0,6,0.471,-5.545,0,0.0804,124.419,4,0.471
+Rain When I Die,Dirt,studio album,1992,Alice In Chains,361,0.0183,0.422,0.859,0.000673,9,0.209,-6.778,1,0.0757,120.078,3,0.203
+Down In A Hole,Dirt,studio album,1992,Alice In Chains,338,0.0134,0.357,0.795,0.00013,6,0.111,-5.909,1,0.0337,97.171,4,0.416
+Sickman,Dirt,studio album,1992,Alice In Chains,329,0.00743,0.287,0.912,0.00069,1,0.0871,-5.553,1,0.0954,139.106,3,0.274
+Rooster,Dirt,studio album,1992,Alice In Chains,374,0.0307,0.271,0.551,0.000581,3,0.118,-8.46,1,0.0272,143.899,3,0.2
+Junkhead,Dirt,studio album,1992,Alice In Chains,309,0.0013,0.298,0.776,0.000271,11,0.096,-7.171,1,0.0376,140.453,4,0.245
+Dirt,Dirt,studio album,1992,Alice In Chains,316,0.00323,0.258,0.926,5.15e-06,1,0.13,-5.901,1,0.0761,112.643,4,0.251
+God Smack,Dirt,studio album,1992,Alice In Chains,230,0.0138,0.515,0.928,0.0,10,0.107,-6.392,0,0.0694,124.058,4,0.389
+Untitled,Dirt,studio album,1992,Alice In Chains,43,0.401,0.11,0.424,0.269,3,0.658,-7.243,1,0.0408,85.946,1,0.416
+Hate To Feel,Dirt,studio album,1992,Alice In Chains,316,0.115,0.293,0.909,0.0,8,0.0512,-5.394,1,0.0955,138.561,4,0.114
+Angry Chair,Dirt,studio album,1992,Alice In Chains,287,0.0419,0.325,0.936,0.0,8,0.0415,-6.295,1,0.0848,106.988,4,0.159
+Would?,Dirt,studio album,1992,Alice In Chains,206,0.000327,0.305,0.833,2.36e-05,6,0.091,-7.981,1,0.0398,100.675,4,0.586
+We Die Young,Facelift,studio album,1990,Alice In Chains,152,1.79e-05,0.486,0.938,0.000103,1,0.361,-6.652,1,0.0704,125.816,4,0.525
+Man in the Box,Facelift,studio album,1990,Alice In Chains,285,0.00045,0.355,0.791,0.0,8,0.0969,-7.565,1,0.0453,106.392,4,0.758
+Sea Of Sorrow,Facelift,studio album,1990,Alice In Chains,349,0.0139,0.288,0.843,0.0,11,0.0555,-7.858,1,0.0633,122.147,4,0.311
+Bleed The Freak,Facelift,studio album,1990,Alice In Chains,242,0.00252,0.245,0.749,7.87e-06,8,0.185,-9.352,0,0.0599,118.363,4,0.221
+I Can't Remember,Facelift,studio album,1990,Alice In Chains,222,0.00146,0.277,0.736,2.43e-05,8,0.214,-8.851,1,0.0404,104.974,4,0.185
+"Love, Hate, Love",Facelift,studio album,1990,Alice In Chains,387,0.00783,0.323,0.633,0.000112,8,0.0435,-9.014,1,0.0402,103.978,4,0.209
+It Ain't Like That,Facelift,studio album,1990,Alice In Chains,277,0.00905,0.445,0.842,3.57e-05,8,0.295,-7.9,0,0.0417,102.859,4,0.676
+Sunshine,Facelift,studio album,1990,Alice In Chains,285,0.00297,0.178,0.787,6.9e-06,1,0.163,-7.008,1,0.0476,76.932,4,0.37
+Put You Down,Facelift,studio album,1990,Alice In Chains,195,0.00068,0.363,0.901,1.88e-05,5,0.348,-8.147,0,0.0558,113.575,4,0.574
+Confusion,Facelift,studio album,1990,Alice In Chains,344,0.00666,0.251,0.734,4.73e-05,3,0.116,-7.43,1,0.0397,149.831,4,0.129
+I Know Somethin (Bout You),Facelift,studio album,1990,Alice In Chains,262,7.98e-05,0.414,0.822,1.78e-06,8,0.402,-8.972,0,0.0597,113.363,4,0.747
+Real Thing,Facelift,studio album,1990,Alice In Chains,245,0.00993,0.341,0.883,0.0,8,0.0714,-7.342,1,0.0906,123.056,4,0.265
+Man in the Box,Greatest Hits,compilation album,2001,Alice In Chains,287,0.00144,0.339,0.854,0.0,8,0.0942,-4.577,1,0.0493,106.145,4,0.675
+Them Bones,Greatest Hits,compilation album,2001,Alice In Chains,150,0.0249,0.153,0.955,4.63e-05,9,0.264,-4.62,1,0.0618,165.017,1,0.294
+Rooster,Greatest Hits,compilation album,2001,Alice In Chains,375,0.161,0.262,0.636,0.00217,3,0.127,-5.945,1,0.0278,142.988,4,0.18
+Angry Chair,Greatest Hits,compilation album,2001,Alice In Chains,288,0.0633,0.311,0.969,3.73e-06,8,0.0499,-3.986,1,0.104,106.817,4,0.129
+Would?,Greatest Hits,compilation album,2001,Alice In Chains,208,0.00594,0.301,0.923,0.000756,6,0.0541,-5.458,1,0.0665,100.752,4,0.426
+No Excuses,Greatest Hits,compilation album,2001,Alice In Chains,255,0.0209,0.53,0.851,0.000225,3,0.0784,-4.9,1,0.0309,117.468,4,0.687
+I Stay Away,Greatest Hits,compilation album,2001,Alice In Chains,254,0.0915,0.195,0.855,0.000571,6,0.0886,-5.328,1,0.0442,82.974,4,0.36
+Grind,Greatest Hits,compilation album,2001,Alice In Chains,286,0.000206,0.254,0.923,0.000301,11,0.302,-4.523,1,0.0531,176.605,4,0.317
+Heaven Beside You,Greatest Hits,compilation album,2001,Alice In Chains,329,0.00217,0.531,0.769,0.00101,10,0.138,-4.902,0,0.0349,111.272,4,0.523
+Again,Greatest Hits,compilation album,2001,Alice In Chains,245,0.000896,0.547,0.902,0.0198,7,0.133,-5.349,1,0.0533,123.193,4,0.366
+Get Born Again,Music Bank,compilation album,1999,Alice In Chains,324,0.00129,0.339,0.863,0.024,8,0.145,-6.463,1,0.0561,102.682,4,0.271
+I Can't Have You Blues,Music Bank,compilation album,1999,Alice In Chains,240,0.00496,0.333,0.975,0.0,1,0.308,-3.847,1,0.136,142.995,4,0.322
+Whatcha Gonna Do,Music Bank,compilation album,1999,Alice In Chains,173,0.0292,0.388,0.99,1.06e-05,1,0.0637,-4.209,1,0.102,151.494,4,0.536
+Social Parasite,Music Bank,compilation album,1999,Alice In Chains,261,0.00318,0.399,0.971,1.12e-06,8,0.337,-4.107,1,0.0853,138.942,4,0.398
+Queen of the Rodeo,Music Bank,compilation album,1999,Alice In Chains,278,0.00243,0.155,0.743,0.128,1,0.392,-7.636,1,0.0473,50.465,4,0.369
+Bleed the Freak,Music Bank,compilation album,1999,Alice In Chains,211,0.0012,0.169,0.773,0.0648,5,0.0759,-5.567,0,0.0479,127.104,4,0.409
+Killing Yourself,Music Bank,compilation album,1999,Alice In Chains,158,0.00424,0.417,0.967,0.0,8,0.371,-4.347,1,0.184,143.105,4,0.233
+We Die Young,Music Bank,compilation album,1999,Alice In Chains,152,3.82e-05,0.472,0.971,0.00023,1,0.248,-3.635,1,0.0703,125.74,4,0.422
+Man in the Box,Music Bank,compilation album,1999,Alice In Chains,287,0.00112,0.338,0.853,0.0,8,0.0759,-4.589,1,0.0482,106.118,4,0.694
+Sea Of Sorrow,Music Bank,compilation album,1999,Alice In Chains,321,0.00498,0.312,0.907,0.0,11,0.0504,-4.033,1,0.0724,130.681,4,0.324
+I Can't Remember,Music Bank,compilation album,1999,Alice In Chains,223,0.00756,0.265,0.822,0.000117,8,0.211,-4.926,1,0.0444,104.287,4,0.196
+"Love, Hate, Love",Music Bank,compilation album,1999,Alice In Chains,389,0.0341,0.303,0.726,0.000367,8,0.0424,-5.566,1,0.0479,102.528,4,0.158
+It Ain't Like That,Music Bank,compilation album,1999,Alice In Chains,278,0.0313,0.426,0.907,0.000136,8,0.243,-4.199,1,0.0415,103.078,4,0.623
+Confusion,Music Bank,compilation album,1999,Alice In Chains,345,0.0125,0.197,0.826,0.000406,3,0.0704,-4.713,1,0.0416,71.397,4,0.0982
+Rooster,Music Bank,compilation album,1999,Alice In Chains,346,0.0229,0.322,0.568,0.00138,8,0.123,-6.74,1,0.0259,154.351,4,0.181
+Right Turn,Music Bank,compilation album,1999,Alice In Chains,194,0.175,0.505,0.408,0.0,8,0.177,-7.436,1,0.0231,96.405,4,0.245
+Got Me Wrong,Music Bank,compilation album,1999,Alice In Chains,249,0.146,0.485,0.915,0.00144,8,0.21,-4.954,1,0.0651,83.45,4,0.215
+Rain When I Die,Music Bank,compilation album,1999,Alice In Chains,362,0.0395,0.409,0.915,0.0013,9,0.117,-5.348,1,0.0988,120.145,3,0.163
+Fear The Voices,Music Bank,compilation album,1999,Alice In Chains,297,0.04,0.281,0.953,0.000298,4,0.148,-5.376,1,0.0848,101.15,4,0.345
+Them Bones,Music Bank,compilation album,1999,Alice In Chains,149,0.0255,0.156,0.956,9.64e-05,9,0.313,-4.578,1,0.0623,165.217,1,0.345
+Dam That River,Music Bank,compilation album,1999,Alice In Chains,189,0.00957,0.424,0.934,0.0,6,0.44,-4.19,0,0.0722,124.317,4,0.488
+Sickman,Music Bank,compilation album,1999,Alice In Chains,329,0.018,0.279,0.948,0.00495,1,0.0971,-4.416,1,0.119,140.916,3,0.235
+Rooster,Music Bank,compilation album,1999,Alice In Chains,374,0.139,0.256,0.627,0.00178,3,0.116,-5.726,1,0.0276,145.54,4,0.172
+Junkhead,Music Bank,compilation album,1999,Alice In Chains,310,0.000132,0.278,0.762,0.000141,4,0.137,-5.437,1,0.0379,138.74,4,0.299
+Dirt,Music Bank,compilation album,1999,Alice In Chains,316,0.0232,0.24,0.963,4.38e-06,1,0.154,-3.484,1,0.0867,113.578,4,0.174
+God Smack,Music Bank,compilation album,1999,Alice In Chains,230,0.063,0.496,0.969,1.26e-05,10,0.158,-3.881,0,0.111,124.055,4,0.178
+Iron Gland,Music Bank,compilation album,1999,Alice In Chains,43,0.354,0.0755,0.44,0.105,3,0.603,-5.641,1,0.0442,81.158,1,0.524
+Angry Chair,Music Bank,compilation album,1999,Alice In Chains,287,0.0731,0.315,0.972,1.2e-06,8,0.0594,-3.845,1,0.111,107.388,4,0.123
+Lying Season,Music Bank,compilation album,1999,Alice In Chains,199,0.000169,0.204,0.913,0.00857,1,0.041,-5.226,1,0.054,101.886,4,0.332
+Would?,Music Bank,compilation album,1999,Alice In Chains,207,0.00621,0.295,0.926,0.00051,6,0.0694,-5.438,1,0.0648,100.231,4,0.442
+Brother,Music Bank,compilation album,1999,Alice In Chains,267,0.384,0.45,0.541,4.95e-05,1,0.105,-6.823,1,0.0269,91.556,4,0.276
+Am I Inside,Music Bank,compilation album,1999,Alice In Chains,308,0.872,0.413,0.32,0.0019,1,0.11,-8.987,1,0.0271,95.816,4,0.0477
+I Stay Away,Music Bank,compilation album,1999,Alice In Chains,254,0.0815,0.201,0.85,0.00106,6,0.091,-5.329,1,0.0427,83.014,4,0.344
+No Excuses,Music Bank,compilation album,1999,Alice In Chains,257,0.0204,0.527,0.849,0.000126,3,0.0744,-4.91,1,0.0312,117.436,4,0.708
+Down in a Hole,Music Bank,compilation album,1999,Alice In Chains,337,0.0527,0.354,0.826,0.000294,6,0.122,-5.552,1,0.0364,97.248,4,0.409
+Hate To Feel,Music Bank,compilation album,1999,Alice In Chains,316,0.25,0.285,0.94,0.0,8,0.236,-4.257,1,0.0982,138.722,4,0.0723
+What the Hell Have I - Remix,Music Bank,compilation album,1999,Alice In Chains,234,0.00691,0.204,0.815,9.18e-05,8,0.191,-5.157,1,0.037,200.486,4,0.676
+A Little Bitter - Remix,Music Bank,compilation album,1999,Alice In Chains,228,0.0202,0.427,0.943,4.71e-05,8,0.0841,-6.149,1,0.263,122.925,4,0.309
+Grind,Music Bank,compilation album,1999,Alice In Chains,284,0.000216,0.242,0.92,0.000374,11,0.426,-4.632,1,0.0522,176.24,4,0.305
+Again - Tattoo of Pain Mix,Music Bank,compilation album,1999,"Alice In Chains, Praga Kahn, Oliver Adams",241,1.39e-05,0.499,0.932,0.143,7,0.395,-4.703,1,0.0596,123.043,4,0.325
+Head Creeps,Music Bank,compilation album,1999,Alice In Chains,388,0.00191,0.276,0.989,0.249,8,0.252,-4.445,1,0.0739,101.064,4,0.19
+God Am,Music Bank,compilation album,1999,Alice In Chains,251,0.0129,0.439,0.96,0.011,11,0.0961,-4.365,1,0.263,157.644,4,0.384
+Frogs,Music Bank,compilation album,1999,Alice In Chains,497,0.0206,0.383,0.538,0.415,11,0.116,-7.691,1,0.0291,93.268,4,0.0667
+Heaven Beside You,Music Bank,compilation album,1999,Alice In Chains,330,0.00273,0.529,0.784,0.000797,10,0.11,-4.559,0,0.0355,111.244,4,0.521
+Nutshell,Music Bank,compilation album,1999,Alice In Chains,268,0.259,0.376,0.522,0.149,3,0.98,-10.942,0,0.0352,123.247,3,0.232
+The Killer Is Me,Music Bank,compilation album,1999,Alice In Chains,316,0.236,0.456,0.726,0.171,10,0.716,-8.957,0,0.04,121.786,4,0.316
+Over Now,Music Bank,compilation album,1999,Alice In Chains,355,0.12,0.478,0.56,0.0585,5,0.692,-7.653,0,0.0286,111.118,4,0.285
+Died,Music Bank,compilation album,1999,Alice In Chains,357,0.0413,0.448,0.812,0.00244,6,0.0928,-6.495,1,0.0327,104.588,4,0.497
+Bleed the Freak,Live,live album,2000,Alice In Chains,273,0.000539,0.202,0.843,0.103,8,0.992,-6.009,1,0.0622,116.619,4,0.31
+Queen of the Rodeo,Live,live album,2000,Alice In Chains,280,0.00644,0.207,0.75,0.0903,10,0.973,-8.158,0,0.0474,145.634,4,0.402
+Angry Chair,Live,live album,2000,Alice In Chains,262,1.69e-05,0.265,0.946,0.0164,8,0.442,-5.617,1,0.0903,110.677,4,0.192
+Man in the Box,Live,live album,2000,Alice In Chains,288,2.46e-05,0.387,0.964,0.0372,1,0.697,-5.626,1,0.12,115.141,4,0.215
+"Love, Hate, Love",Live,live album,2000,Alice In Chains,467,0.00137,0.19,0.77,0.0744,8,0.965,-7.375,1,0.0731,89.676,4,0.13
+Rooster,Live,live album,2000,Alice In Chains,408,0.00783,0.269,0.659,0.00508,8,0.686,-7.123,1,0.0397,133.087,3,0.177
+Would?,Live,live album,2000,Alice In Chains,228,1.79e-05,0.203,0.922,0.535,1,0.789,-6.358,1,0.0682,92.48,4,0.27
+Junkhead,Live,live album,2000,Alice In Chains,320,4.03e-05,0.326,0.902,0.00726,4,0.968,-6.156,1,0.0749,135.282,4,0.267
+Dirt,Live,live album,2000,Alice In Chains,323,0.00229,0.254,0.956,0.328,6,0.976,-4.454,0,0.0686,122.484,4,0.259
+Them Bones,Live,live album,2000,Alice In Chains,159,0.0388,0.0839,0.96,4.84e-05,9,0.965,-4.276,1,0.0787,169.416,1,0.212
+God Am,Live,live album,2000,Alice In Chains,238,0.076,0.214,0.97,0.00857,8,0.961,-4.539,0,0.112,163.128,4,0.305
+Again,Live,live album,2000,Alice In Chains,263,0.0568,0.424,0.986,0.00899,10,0.871,-5.02,0,0.102,125.909,4,0.071
+A Little Bitter,Live,live album,2000,Alice In Chains,231,0.00479,0.252,0.986,3.73e-05,8,0.904,-3.948,0,0.226,120.782,4,0.119
+Dam That River,Live,live album,2000,Alice In Chains,212,0.00194,0.299,0.976,1.97e-05,6,0.985,-3.585,0,0.126,127.82,4,0.133
+We Die Young,The Essential Alice In Chains,compilation album,2006,Alice In Chains,152,4.66e-05,0.462,0.97,0.000267,1,0.331,-3.651,1,0.0708,125.802,4,0.389
+Man in the Box,The Essential Alice In Chains,compilation album,2006,Alice In Chains,286,0.00136,0.337,0.849,0.0,8,0.0904,-4.604,1,0.0456,106.395,4,0.685
+Sea Of Sorrow,The Essential Alice In Chains,compilation album,2006,Alice In Chains,350,0.0534,0.262,0.912,0.0,11,0.0509,-4.166,1,0.095,122.577,4,0.204
+"Love, Hate, Love",The Essential Alice In Chains,compilation album,2006,Alice In Chains,388,0.0291,0.306,0.724,0.000328,8,0.0421,-5.584,1,0.0455,103.607,4,0.179
+Am I Inside,The Essential Alice In Chains,compilation album,2006,Alice In Chains,308,0.873,0.415,0.319,0.00154,1,0.11,-9.092,1,0.0274,97.497,4,0.0462
+Brother,The Essential Alice In Chains,compilation album,2006,Alice In Chains,268,0.375,0.451,0.542,6.76e-05,1,0.0945,-6.832,1,0.0267,91.636,4,0.275
+Got Me Wrong,The Essential Alice In Chains,compilation album,2006,Alice In Chains,250,0.14,0.489,0.915,0.000969,8,0.197,-4.925,1,0.0568,83.352,4,0.231
+Right Turn,The Essential Alice In Chains,compilation album,2006,Alice In Chains,194,0.199,0.498,0.397,0.0,8,0.178,-7.441,1,0.024,96.435,4,0.238
+Rain When I Die,The Essential Alice In Chains,compilation album,2006,Alice In Chains,362,0.0397,0.408,0.92,0.000799,9,0.133,-5.169,1,0.0988,120.053,3,0.136
+Them Bones,The Essential Alice In Chains,compilation album,2006,Alice In Chains,150,0.0209,0.154,0.951,4.18e-05,9,0.238,-4.557,1,0.0658,165.249,1,0.328
+Angry Chair,The Essential Alice In Chains,compilation album,2006,Alice In Chains,288,0.0642,0.313,0.973,1.22e-06,8,0.0581,-3.855,1,0.109,107.3,4,0.118
+Dam That River,The Essential Alice In Chains,compilation album,2006,Alice In Chains,189,0.00671,0.426,0.939,0.0,6,0.412,-4.174,0,0.0732,124.317,4,0.457
+Dirt,The Essential Alice In Chains,compilation album,2006,Alice In Chains,316,0.0207,0.241,0.965,4.79e-06,1,0.177,-3.49,1,0.0925,112.616,4,0.168
+God Smack,The Essential Alice In Chains,compilation album,2006,Alice In Chains,230,0.0637,0.496,0.969,7.73e-06,10,0.102,-3.785,0,0.117,124.046,4,0.198
+Hate To Feel,The Essential Alice In Chains,compilation album,2006,Alice In Chains,316,0.231,0.28,0.942,0.0,8,0.0693,-4.238,1,0.0989,138.719,4,0.0773
+Rooster,The Essential Alice In Chains,compilation album,2006,Alice In Chains,376,0.153,0.254,0.628,0.00202,3,0.123,-5.721,1,0.0274,146.004,4,0.148
+No Excuses,The Essential Alice In Chains,compilation album,2006,Alice In Chains,256,0.0278,0.528,0.852,0.000211,3,0.0785,-4.923,1,0.0311,117.428,4,0.727
+I Stay Away,The Essential Alice In Chains,compilation album,2006,Alice In Chains,254,0.104,0.177,0.84,0.000375,6,0.0883,-5.295,1,0.043,80.428,4,0.321
+What the Hell Have I - Remix,The Essential Alice In Chains,compilation album,2006,Alice In Chains,234,0.00607,0.203,0.818,0.000207,8,0.17,-5.223,1,0.0376,200.54,4,0.644
+A Little Bitter - Remix,The Essential Alice In Chains,compilation album,2006,Alice In Chains,228,0.0152,0.416,0.942,3.54e-05,8,0.083,-6.152,1,0.23,122.784,4,0.313
+Grind,The Essential Alice In Chains,compilation album,2006,Alice In Chains,286,0.000229,0.381,0.915,0.000648,11,0.425,-4.611,1,0.0411,88.321,4,0.381
+Heaven Beside You,The Essential Alice In Chains,compilation album,2006,Alice In Chains,329,0.00239,0.539,0.784,0.000736,10,0.114,-4.571,0,0.0352,111.257,4,0.484
+Again,The Essential Alice In Chains,compilation album,2006,Alice In Chains,245,0.000635,0.543,0.91,0.0231,7,0.158,-5.339,1,0.0537,123.158,4,0.365
+Over Now,The Essential Alice In Chains,compilation album,2006,Alice In Chains,356,0.0978,0.645,0.561,0.0424,5,0.692,-7.716,0,0.0276,111.559,4,0.25
+Nutshell,The Essential Alice In Chains,compilation album,2006,Alice In Chains,272,0.224,0.383,0.503,0.113,3,0.976,-11.069,0,0.0311,122.417,3,0.237
+Get Born Again,The Essential Alice In Chains,compilation album,2006,Alice In Chains,324,0.00134,0.337,0.866,0.0334,8,0.123,-6.481,1,0.0543,102.672,4,0.285
+Died,The Essential Alice In Chains,compilation album,2006,Alice In Chains,357,0.0401,0.451,0.805,0.00273,8,0.0789,-6.525,1,0.0336,104.562,4,0.488
+Would?,The Essential Alice In Chains,compilation album,2006,Alice In Chains,208,0.00699,0.293,0.924,0.000614,6,0.0566,-5.437,1,0.0637,100.309,4,0.478
+Get Born Again,Nothing Safe,box set,1999,Alice In Chains,327,0.00163,0.342,0.861,0.0497,8,0.159,-6.657,1,0.0533,102.917,4,0.298
+We Die Young,Nothing Safe,box set,1999,Alice In Chains,146,0.000464,0.333,0.948,1.12e-06,1,0.0364,-6.278,0,0.0673,132.647,4,0.342
+Man in the Box,Nothing Safe,box set,1999,Alice In Chains,286,0.00233,0.349,0.833,4.76e-06,8,0.0579,-6.441,1,0.0467,106.428,4,0.7
+Them Bones,Nothing Safe,box set,1999,Alice In Chains,149,0.0224,0.162,0.949,7.18e-06,9,0.386,-5.227,1,0.0611,164.622,1,0.301
+Iron Gland,Nothing Safe,box set,1999,Alice In Chains,44,0.31,0.172,0.541,0.616,3,0.799,-6.441,1,0.0481,97.804,3,0.455
+Angry Chair,Nothing Safe,box set,1999,Alice In Chains,286,0.0437,0.325,0.948,0.0,8,0.0392,-5.081,1,0.0955,107.264,4,0.157
+Down in a Hole,Nothing Safe,box set,1999,Alice In Chains,337,0.014,0.358,0.819,0.000141,6,0.124,-5.495,1,0.0328,97.197,4,0.434
+Rooster,Nothing Safe,box set,1999,Alice In Chains,413,0.00545,0.26,0.619,0.00832,8,0.723,-8.4,1,0.0382,137.304,3,0.181
+Got Me Wrong,Nothing Safe,box set,1999,Alice In Chains,263,0.0761,0.579,0.683,4.96e-05,8,0.936,-7.535,1,0.0281,81.764,4,0.328
+No Excuses,Nothing Safe,box set,1999,Alice In Chains,255,0.0185,0.524,0.837,0.000648,3,0.0877,-5.342,1,0.0322,117.432,4,0.715
+I Stay Away,Nothing Safe,box set,1999,Alice In Chains,254,0.0436,0.197,0.784,0.00359,6,0.0839,-6.229,1,0.0418,81.778,4,0.285
+What the Hell Have I,Nothing Safe,box set,1999,Alice In Chains,237,0.00127,0.445,0.917,0.0028,8,0.356,-4.683,1,0.0407,100.254,4,0.564
+Grind,Nothing Safe,box set,1999,Alice In Chains,284,0.000163,0.239,0.906,0.000418,11,0.457,-4.662,1,0.0488,176.333,4,0.385
+Again,Nothing Safe,box set,1999,Alice In Chains,246,0.000808,0.547,0.906,0.0119,7,0.115,-5.24,1,0.0534,123.185,4,0.381
+Would?,Nothing Safe,box set,1999,Alice In Chains,208,0.000369,0.305,0.853,7.54e-06,6,0.0548,-7.156,1,0.0499,101.062,4,0.637

@@ -1,0 +1,64 @@
+index,chart,track_name,debut_date,peak_pos,peak_date,weaks_on_chart
+0,Billboard Hot 100,Last Kiss,05.29.99,2,06.26.99,21
+1,Billboard Hot 100,I Got Id,12.23.95,7,12.23.95,20
+2,Billboard Hot 100,Wishlist,05.23.98,47,05.30.98,20
+3,Billboard Hot 100,Given To Fly,01.24.98,21,01.31.98,16
+4,Billboard Hot 100,Just Breathe,01.30.10,78,03.27.10,14
+5,Radio Songs,Better Man,12.10.94,13,02.04.95,36
+6,Radio Songs,Daughter/Yellow Ledbetter,11.27.93,33,01.22.94,31
+7,Radio Songs,Corduroy,12.10.94,53,07.15.95,23
+8,Radio Songs,Last Kiss,05.29.99,7,08.14.99,21
+9,Radio Songs,I Got Id,12.09.95,34,12.23.95,16
+10,Digital Song Sales,The Fixer,09.12.09,40,09.12.09,4
+11,Digital Song Sales,Just Breathe,03.27.10,62,04.10.10,3
+12,Digital Song Sales,World Wide Suicide,04.01.06,29,04.01.06,2
+13,Digital Song Sales,Even Flow,02.07.09,62,02.07.09,1
+14,Digital Song Sales,Alive,02.14.09,66,02.14.09,1
+15,Hot Rock & Alternative Songs,Just Breathe,10.31.09,5,02.27.10,28
+16,Hot Rock & Alternative Songs,The Fixer,08.08.09,2,08.08.09,24
+17,Hot Rock & Alternative Songs,Sirens,10.05.13,11,10.26.13,20
+18,Hot Rock & Alternative Songs,Amongst The Waves,06.05.10,23,08.07.10,14
+19,Hot Rock & Alternative Songs,Mind Your Manners,07.27.13,17,07.27.13,12
+20,Mainstream Rock Airplay,Daughter/Yellow Ledbetter,10.30.93,1,12.04.93,26
+21,Mainstream Rock Airplay,Better Man,12.10.94,1,01.07.95,26
+22,Mainstream Rock Airplay,I Got Id,12.09.95,2,01.20.96,26
+23,Mainstream Rock Airplay,Alive,01.04.92,16,02.22.92,25
+24,Mainstream Rock Airplay,Black,12.26.92,3,03.20.93,25
+25,Alternative Airplay,Better Man,12.03.94,2,01.21.95,26
+26,Alternative Airplay,Corduroy,12.10.94,13,02.18.95,26
+27,Alternative Airplay,Wishlist,02.28.98,6,05.09.98,26
+28,Alternative Airplay,Given To Fly,01.03.98,3,01.17.98,25
+29,Alternative Airplay,Last Kiss,05.01.99,2,06.12.99,22
+30,Rock Digital Song Sales,Just Breathe,01.23.10,7,04.03.10,26
+31,Rock Digital Song Sales,Sirens,10.05.13,7,10.26.13,11
+32,Rock Digital Song Sales,Dance Of The Clairvoyants,02.01.20,2,02.01.20,4
+33,Rock Digital Song Sales,Last Kiss,06.11.11,12,03.21.15,3
+34,Rock Digital Song Sales,Mind Your Manners,07.27.13,14,07.27.13,3
+35,Alternative Digital Song Sales,Sirens,10.05.13,6,10.26.13,5
+36,Alternative Digital Song Sales,Dance Of The Clairvoyants,02.01.20,6,02.01.20,4
+37,Alternative Digital Song Sales,Last Kiss,06.11.11,9,03.21.15,3
+38,Alternative Digital Song Sales,Mind Your Manners,07.27.13,11,07.27.13,3
+39,Alternative Digital Song Sales,Better Man,09.03.11,18,09.10.11,2
+40,Hot Rock Songs,Just Breathe,10.31.09,5,02.27.10,28
+41,Hot Rock Songs,The Fixer,08.08.09,2,08.08.09,24
+42,Hot Rock Songs,Sirens,10.05.13,11,10.26.13,20
+43,Hot Rock Songs,Amongst The Waves,06.05.10,23,08.07.10,14
+44,Hot Rock Songs,Mind Your Manners,07.27.13,17,07.27.13,12
+45,Canadian Digital Song Sales,Last Kiss,07.03.99,1,07.03.99,70
+46,Canadian Digital Song Sales,Just Breathe,12.12.09,46,03.27.10,18
+47,Canadian Digital Song Sales,I Am Mine,11.09.02,2,11.09.02,11
+48,Canadian Digital Song Sales,Given To Fly,01.24.98,2,01.24.98,5
+49,Canadian Digital Song Sales,Nothing As It Seems,05.13.00,1,05.13.00,4
+50,LyricFind U.S.,Dance Of The Clairvoyants,02.01.20,2,02.08.20,3
+51,LyricFind U.S.,River Cross,04.25.20,12,05.02.20,2
+52,LyricFind U.S.,All Or None,03.04.23,11,03.04.23,2
+53,LyricFind U.S.,W.M.A.,06.06.20,1,06.06.20,2
+54,LyricFind U.S.,Release,09.04.21,22,09.04.21,1
+55,LyricFind Global,All Or None,03.04.23,10,03.04.23,2
+56,LyricFind Global,Release,09.04.21,17,09.04.21,1
+57,LyricFind Global,Retrograde,05.23.20,19,05.23.20,1
+58,LyricFind Global,Alive,08.06.22,11,08.06.22,1
+59,LyricFind Global,Porch,09.04.21,15,09.04.21,1
+1,Billboard Hot 100,Long Road,12.23.95,7,12.23.95,20
+9,Radio Songs,Long Road,12.09.95,34,12.23.95,16
+22,Mainstream Rock Airplay,Long Road,12.09.95,2,01.20.96,26

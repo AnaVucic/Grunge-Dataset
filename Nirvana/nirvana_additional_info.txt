@@ -1,0 +1,40 @@
+This data set contains data about various grunge bands. The information in this data set was collected using Spotipy python library, as well as common web scraping techniques using the Beautiful Soup python Library.
+
+Bands:
+   1. Nirvana
+   2. Pearl Jam (to be added)
+   3. Alice In Chains (to be added)
+
+Number of instances: to be determined
+
+Number of attributes: to be determined
+
+Attribute information:
+   Input variables:
+   # grunge song data:
+   1 - track_name (string) (Spotify)
+   2 - album_name (string) (Spotify)
+   3 - album_type (string) The type of album that a track comes from. ("album", "compilation", "single") (Spotify)
+   4 - duration (numeric) The length of the track is measured in seconds. (Spotify)
+   5 - release_year_x (numeric) The year that the track was released in scope of the album speified in "album_name" (Spotify)
+   6 - artists (string) The artists who performed (recorded) the track. (Spotify)
+   7 - acousticness (numeric) Whether the track is acoustic. [0.0 - 1.0] (1.0 = acoustic) (Spotify)
+   8 - danceability (numeric) How suitable the track is for dancing. [0.0 - 1.0] (1.0 = most danceable) (Spotify)
+   9 - energy (numeric) Represents a measure of intensity and activeness. [0.0 - 1.0] (1.0 = most energetic) (Spotify)
+   10 - instrumentalness (numeric) Whether the track contains no vocals. [0.0 - 1.0] (1.0 = no vocals) (Spotify)
+   11 - key (numeric) The key the track is in. [0-11] (0 = C, 1 = C♯/D♭, 2 = D, and so on) (Spotify)
+   12 - liveness (numeric) Detects the presence of an audience in the track. [0.0 - 1.0] (Spotify)
+   13 - loudness (numeric) The overall loudness of the track in dB (decibels). (Spotify)
+   14 - mode (numeric) The modality (minor or major) of the track. (1 - major, 0 - minor) (Spotify)
+   15 - speechiness (numeric) The presence of spoken words in the track. (Spotify)
+   16 - tempo (numeric) The overall estimated tempo of the track in BPM (beats per minute) (Spotify)
+   17 - time_signature (numeric) An estimated time signature. (Spotify)
+   18 - valence (numeric) A measure describing the musical positiveness conveyed by the track [0.0 - 1.0]. (1.0 = most positive) (Spotify)
+   19 - writers (string) Writers on the track. (Wikipedia)
+   20 - original_release (string) Album name on which the track was originally released. (Wikipedia)
+   21 - producers (string) Producers on the track. (Wikipedia)
+   22 - release_year_y (numeric) The year that the track was originally released. (Wikipedia)
+  
+Output variable (desired target):
+   X
+

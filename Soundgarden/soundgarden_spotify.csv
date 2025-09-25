@@ -1,0 +1,308 @@
+,track_name,album_name,album_type,release_year,artists,duration,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+0,Flower - Live,Masquerade (Live Boston '90),album,2023,Soundgarden,198,0.0346,0.371,0.898,0.19,8,0.509,-8.872,1,0.052,95.908,4,0.188
+1,Hands All Over - Live,Masquerade (Live Boston '90),album,2023,Soundgarden,374,0.00731,0.111,0.812,7.25e-06,8,0.526,-9.663,1,0.0575,89.23,4,0.149
+2,Gun - Live,Masquerade (Live Boston '90),album,2023,Soundgarden,316,0.0107,0.0927,0.904,0.0659,5,0.313,-8.542,0,0.0967,184.432,4,0.196
+3,Loud Love - Live,Masquerade (Live Boston '90),album,2023,Soundgarden,252,0.000594,0.199,0.846,0.00377,5,0.673,-10.255,0,0.0595,142.538,4,0.131
+4,Get On The Snake - Live,Masquerade (Live Boston '90),album,2023,Soundgarden,193,0.00538,0.213,0.946,5.01e-05,5,0.657,-9.935,0,0.0756,142.016,4,0.0853
+5,Full on Kevin's Mom - Live,Masquerade (Live Boston '90),album,2023,Soundgarden,188,0.086,0.248,0.93,0.00337,1,0.233,-12.042,1,0.0832,76.907,4,0.0999
+6,I Awake - Live,Masquerade (Live Boston '90),album,2023,Soundgarden,233,0.0105,0.184,0.677,0.0188,5,0.792,-14.873,0,0.0508,131.94,3,0.158
+7,Big Bottom - Live,Masquerade (Live Boston '90),album,2023,Soundgarden,236,0.00286,0.321,0.818,0.00184,1,0.0887,-12.883,1,0.0596,108.864,4,0.144
+8,Beyond The Wheel - Live,Masquerade (Live Boston '90),album,2023,Soundgarden,384,0.0326,0.157,0.884,0.234,8,0.0866,-9.323,1,0.0922,133.598,4,0.0664
+9,Into The Void (Stealth) - Live 1991,Suffocate (Live 1991),album,2022,Soundgarden,393,1.75e-06,0.192,0.878,0.0243,7,0.358,-7.042,1,0.0614,97.898,4,0.309
+10,Outshined - Live 1991,Suffocate (Live 1991),album,2022,Soundgarden,308,1.2e-06,0.31,0.864,3.05e-06,9,0.477,-6.781,0,0.0468,95.459,4,0.212
+11,Face Pollution - Live 1991,Suffocate (Live 1991),album,2022,Soundgarden,164,5.31e-06,0.261,0.938,0.000563,2,0.4,-5.488,1,0.0857,123.205,4,0.11
+12,Gun - Live 1991,Suffocate (Live 1991),album,2022,Soundgarden,299,1.43e-06,0.134,0.809,0.00665,9,0.457,-8.141,1,0.0591,94.966,4,0.334
+13,Room A Thousand Years Wide - Live 1991,Suffocate (Live 1991),album,2022,Soundgarden,276,4.54e-05,0.321,0.809,0.000551,10,0.506,-5.59,1,0.0502,110.864,3,0.435
+14,Big Dumb Sex - Live 1991,Suffocate (Live 1991),album,2022,Soundgarden,248,1.86e-05,0.17,0.842,0.0,4,0.829,-6.501,1,0.0534,89.419,4,0.401
+15,Jesus Christ Pose - Live 1991,Suffocate (Live 1991),album,2022,Soundgarden,314,1.14e-06,0.111,0.857,0.00668,9,0.5,-6.889,1,0.0685,66.71,4,0.135
+16,Searching With My Good Eye Closed - Live 1991,Suffocate (Live 1991),album,2022,Soundgarden,447,4.47e-06,0.16,0.766,0.000305,7,0.409,-7.19,1,0.0539,132.445,4,0.25
+17,Incessant Mace - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,492,0.00312,0.129,0.758,0.0104,9,0.966,-9.961,1,0.0574,188.034,3,0.191
+18,My Wave - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,317,0.00158,0.358,0.883,0.0011,9,0.395,-9.791,1,0.0689,137.113,4,0.34
+19,Been Away Too Long - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,211,0.0156,0.214,0.945,0.00274,9,0.969,-9.408,1,0.067,161.697,4,0.336
+20,Worse Dreams - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,231,0.0138,0.334,0.825,0.00592,9,0.735,-10.5,1,0.0786,149.269,3,0.386
+21,Jesus Christ Pose - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,316,0.000174,0.164,0.945,0.327,3,0.739,-9.361,1,0.0761,156.278,4,0.149
+22,Flower - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,228,0.00112,0.362,0.869,0.486,7,0.986,-10.611,1,0.0471,99.835,4,0.244
+23,Taree - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,247,0.107,0.344,0.712,0.00011,7,0.43,-10.594,0,0.038,114.516,4,0.485
+24,Spoonman - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,233,0.00398,0.406,0.875,0.0761,7,0.931,-10.07,1,0.045,99.968,4,0.534
+25,By Crooked Steps - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,246,0.0182,0.315,0.923,0.000219,7,0.983,-9.483,1,0.0716,123.545,4,0.248
+26,Blind Dogs - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,360,0.118,0.286,0.599,0.00054,7,0.699,-11.605,1,0.0491,155.518,4,0.281
+27,Rowing - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,291,0.0988,0.548,0.709,7.82e-06,9,0.488,-10.744,0,0.0445,116.012,4,0.424
+28,Non-State Actor - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,252,0.00124,0.196,0.92,0.00269,7,0.64,-9.063,1,0.0745,90.314,4,0.424
+29,Drawing Flies - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,153,0.00102,0.324,0.969,2e-05,4,0.927,-9.043,0,0.128,78.904,3,0.413
+30,Hunted Down - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,177,0.00665,0.394,0.835,0.00355,0,0.464,-10.252,1,0.0574,93.552,4,0.258
+31,Black Saturday - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,248,0.32,0.416,0.64,1.34e-06,4,0.94,-10.71,0,0.0612,83.09,4,0.231
+32,Bones Of Birds - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,267,0.0239,0.284,0.674,5.95e-05,7,0.977,-10.564,1,0.0609,131.551,4,0.264
+33,Blow Up The Outside World - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,343,0.0423,0.272,0.74,3.28e-05,9,0.833,-9.567,1,0.0373,144.318,4,0.103
+34,Fell On Black Days - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,347,0.12,0.441,0.726,1.7e-05,4,0.879,-10.691,0,0.0457,108.582,4,0.338
+35,Burden In My Hand - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,292,0.0288,0.195,0.835,0.000219,7,0.725,-9.471,0,0.0514,96.583,4,0.332
+36,A Thousand Days Before - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,298,0.000346,0.359,0.857,0.13,5,0.866,-9.947,1,0.07,119.427,4,0.293
+37,Blood On The Valley Floor - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,234,0.0675,0.266,0.88,0.00143,5,0.798,-9.172,1,0.0603,140.325,4,0.393
+38,Rusty Cage - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,300,0.0156,0.249,0.922,0.00287,7,0.885,-9.666,1,0.0806,108.205,4,0.176
+39,New Damage - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,402,0.0759,0.366,0.799,0.000574,7,0.928,-9.989,1,0.0755,121.72,3,0.183
+40,4th Of July - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,525,0.249,0.236,0.652,0.000416,5,0.906,-10.67,0,0.0511,140.844,4,0.116
+41,Outshined - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,340,0.00835,0.373,0.851,0.00361,7,0.553,-9.514,1,0.0511,96.854,4,0.323
+42,Black Hole Sun - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,350,0.0127,0.365,0.747,0.00109,7,0.35,-9.766,1,0.0402,107.596,4,0.249
+43,Ty Cobb - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,188,0.000197,0.325,0.974,0.083,4,0.905,-9.303,0,0.125,141.332,4,0.0898
+44,Slaves & Bulldozers - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,637,0.00266,0.282,0.832,0.027,7,0.824,-9.733,1,0.0549,144.505,4,0.387
+45,Feedbacchanal - Live From The Artists Den,Live From The Artists Den,album,2019,Soundgarden,260,6.59e-05,0.16,0.135,0.973,9,0.74,-11.635,0,0.0471,128.863,3,0.197
+46,Flower,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,206,0.00241,0.47,0.789,0.0265,7,0.258,-5.468,1,0.0562,100.787,4,0.336
+47,All Your Lies,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,229,1.56e-05,0.362,0.921,0.132,4,0.319,-4.617,0,0.0724,91.717,4,0.319
+48,665,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,98,0.0431,0.497,0.754,0.609,7,0.148,-11.452,1,0.0536,111.775,4,0.394
+49,Beyond the Wheel,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,262,0.00982,0.327,0.732,0.159,2,0.217,-7.009,1,0.0402,145.725,4,0.256
+50,667,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,55,0.0119,0.603,0.521,0.232,7,0.093,-14.031,1,0.0406,112.262,4,0.164
+51,Mood for Trouble,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,260,0.0117,0.288,0.846,0.000251,4,0.111,-5.708,0,0.0408,140.122,4,0.2
+52,Circle of Power,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,124,0.00289,0.293,0.976,1.02e-05,9,0.383,-4.073,0,0.131,138.104,5,0.466
+53,He Didn't,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,167,0.0139,0.452,0.939,0.000547,9,0.355,-4.136,0,0.0502,140.437,3,0.776
+54,Smokestack Lightning,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,276,0.000625,0.402,0.781,0.00662,2,0.0978,-5.873,1,0.03,74.422,4,0.589
+55,Nazi Driver,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,232,0.000276,0.383,0.934,1.98e-05,4,0.136,-5.575,0,0.106,80.934,4,0.217
+56,Head Injury,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,140,0.000931,0.515,0.874,0.679,8,0.103,-7.593,0,0.0768,117.446,4,0.659
+57,Incessant Mace,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,381,3.84e-05,0.219,0.786,0.000114,11,0.117,-5.524,0,0.0413,97.096,3,0.144
+58,One Minute of Silence,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,62,0.156,0.16,0.344,0.931,6,0.285,-43.205,1,0.0757,130.582,4,0.0042
+59,Head Injury - Early Version,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,179,6.43e-05,0.433,0.97,0.888,8,0.148,-3.832,1,0.0618,102.796,4,0.534
+60,Beyond the Wheel - Early Version,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,295,0.00824,0.436,0.876,0.0654,2,0.109,-5.041,1,0.0615,125.582,4,0.199
+61,Incessant Mace (Short) - Early Version,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,382,0.000266,0.224,0.785,0.473,9,0.0789,-6.639,1,0.0348,96.181,4,0.312
+62,He Didn't - Early Version,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,174,1.64e-05,0.215,0.984,0.0012,1,0.376,-5.22,0,0.0884,139.273,3,0.475
+63,All Your Lies - Early Version,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,224,1.44e-05,0.271,0.961,0.174,4,0.256,-5.511,0,0.0826,92.671,4,0.389
+64,Incessant Mace (Long) - Early Version,Ultramega OK (Expanded Reissue),album,2017,Soundgarden,469,0.0546,0.204,0.861,0.871,9,0.0908,-6.708,1,0.0602,165.724,3,0.237
+65,Rusty Cage - Remastered,Badmotorfinger,album,2016,Soundgarden,266,1.65e-05,0.307,0.917,0.00044,9,0.0566,-7.599,1,0.0977,101.879,4,0.266
+66,Outshined - Remastered,Badmotorfinger,album,2016,Soundgarden,311,0.000173,0.485,0.841,0.00686,2,0.125,-6.068,0,0.0307,94.867,4,0.551
+67,Slaves & Bulldozers - Remastered,Badmotorfinger,album,2016,Soundgarden,416,3.86e-05,0.476,0.731,0.00213,0,0.305,-6.053,1,0.0336,130.981,4,0.215
+68,Jesus Christ Pose - Remastered,Badmotorfinger,album,2016,Soundgarden,351,6.66e-06,0.341,0.965,0.723,9,0.317,-5.976,1,0.107,134.328,4,0.273
+69,Face Pollution - Remastered,Badmotorfinger,album,2016,Soundgarden,143,5.07e-06,0.227,0.968,0.749,0,0.353,-5.483,1,0.133,117.771,4,0.485
+70,Somewhere - Remastered,Badmotorfinger,album,2016,Soundgarden,261,0.000458,0.158,0.915,0.0145,9,0.487,-6.066,1,0.124,178.307,4,0.388
+71,Searching With My Good Eye Closed - Remastered,Badmotorfinger,album,2016,Soundgarden,391,1.77e-05,0.307,0.777,0.514,9,0.25,-7.796,1,0.0577,125.602,4,0.0612
+72,Room A Thousand Years Wide - Remastered,Badmotorfinger,album,2016,Soundgarden,246,1.55e-05,0.497,0.966,0.246,10,0.231,-4.843,1,0.0516,112.042,3,0.541
+73,Mind Riot - Remastered,Badmotorfinger,album,2016,Soundgarden,289,6.24e-05,0.461,0.836,0.471,6,0.131,-6.571,0,0.0305,95.993,4,0.35
+74,Drawing Flies - Remastered,Badmotorfinger,album,2016,Soundgarden,146,5.79e-06,0.296,0.929,0.000198,9,0.247,-5.862,1,0.0906,105.312,4,0.716
+75,Holy Water - Remastered,Badmotorfinger,album,2016,Soundgarden,307,0.000119,0.372,0.87,0.0319,4,0.108,-5.6,0,0.0408,172.688,4,0.53
+76,New Damage - Remastered,Badmotorfinger,album,2016,Soundgarden,340,6.66e-05,0.323,0.918,0.0258,5,0.118,-5.679,1,0.0477,119.396,4,0.245
+77,Rusty Cage - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,271,7.04e-05,0.278,0.935,0.785,2,0.296,-6.928,1,0.0815,102.068,4,0.443
+78,Outshined - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,313,1.01e-05,0.462,0.799,0.738,0,0.193,-7.259,1,0.0275,95.691,4,0.704
+79,Slaves & Bulldozers - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,426,8.81e-06,0.429,0.794,0.914,0,0.368,-7.983,1,0.0323,136.106,4,0.465
+80,Jesus Christ Pose - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,342,3.31e-06,0.378,0.977,0.609,9,0.117,-7.177,1,0.0854,133.795,4,0.336
+81,Face Pollution - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,146,1.61e-06,0.27,0.94,0.904,0,0.333,-7.712,1,0.0707,115.153,4,0.653
+82,Somewhere - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,262,1.31e-05,0.232,0.875,0.386,9,0.322,-7.552,1,0.0428,89.576,4,0.465
+83,Searching With My Good Eye Closed - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,421,0.00046,0.289,0.824,0.751,9,0.0746,-7.633,1,0.0346,124.961,4,0.2
+84,Room A Thousand Years Wide - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,247,2.39e-06,0.482,0.943,0.748,2,0.1,-6.956,0,0.0497,111.897,3,0.211
+85,Drawing Flies - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,156,3.88e-06,0.373,0.914,0.478,9,0.547,-7.359,1,0.0655,142.07,3,0.574
+86,Holy Water - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,331,0.000119,0.342,0.939,0.822,4,0.309,-6.578,0,0.0619,172.207,4,0.333
+87,Cold Bitch - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,323,4.63e-06,0.399,0.864,0.237,9,0.19,-7.36,1,0.0401,77.34,1,0.295
+88,She's A Politician - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,113,2.95e-06,0.287,0.973,0.862,1,0.122,-7.749,0,0.0697,151.682,4,0.827
+89,Black Rain (Black Days) - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,298,1.74e-05,0.16,0.867,0.92,7,0.117,-6.353,0,0.0518,87.894,4,0.393
+90,Birth Ritual - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,330,1.23e-05,0.501,0.966,0.897,7,0.147,-6.773,1,0.0679,130.492,1,0.416
+91,Blind Dogs - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,440,2.3e-05,0.286,0.697,0.504,7,0.098,-7.38,1,0.034,137.832,3,0.312
+92,New Damage,Badmotorfinger,album,2016,"Soundgarden, Brian May",320,9.71e-06,0.283,0.825,0.308,7,0.143,-5.662,1,0.0415,119.837,3,0.215
+93,"Searching With My Good Eye Closed - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,267,9.33e-05,0.278,0.943,0.131,2,0.903,-5.539,1,0.0974,136.889,4,0.347
+94,"Hands All Over - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,366,4.62e-05,0.374,0.937,0.00644,2,0.343,-5.034,1,0.0792,96.673,4,0.454
+95,"Drawing Flies - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,150,3.53e-05,0.345,0.966,0.000597,2,0.827,-4.846,1,0.0776,111.875,4,0.447
+96,"Room A Thousand Years Wide - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,226,0.000219,0.536,0.921,0.0315,10,0.709,-5.468,1,0.038,115.481,3,0.676
+97,"Gun - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,364,0.000211,0.357,0.855,0.0976,9,0.908,-6.253,1,0.0636,102.52,4,0.342
+98,"Flower - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,217,2.76e-05,0.332,0.952,0.00925,0,0.419,-5.81,1,0.0766,97.411,4,0.348
+99,"Little Joe - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,296,0.000167,0.519,0.822,0.354,2,0.22,-6.596,1,0.0532,99.506,4,0.463
+100,"Big Dumb Sex - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,331,0.00131,0.248,0.881,0.022,1,0.909,-6.838,0,0.206,85.776,4,0.509
+101,"Face Pollution - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,161,6.83e-06,0.366,0.953,0.882,2,0.906,-6.171,1,0.0946,115.431,4,0.406
+102,"Incessant Mace - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,531,0.000133,0.207,0.837,0.26,11,0.728,-6.227,0,0.0523,183.173,3,0.297
+103,"Rusty Cage - Live At The Paramount Theatre, Seattle / 1992",Badmotorfinger,album,2016,Soundgarden,363,0.00281,0.295,0.922,0.0138,2,0.676,-6.868,1,0.105,103.385,4,0.176
+104,"Outshined - Live At The Paramount Theatre, Seattle/1992",Badmotorfinger,album,2016,Soundgarden,345,0.000137,0.429,0.861,0.0411,7,0.755,-6.162,1,0.0396,94.83,4,0.503
+105,"Mind Riot - Live At The Paramount Theatre, Seattle/1992",Badmotorfinger,album,2016,Soundgarden,235,0.498,0.353,0.615,0.0393,7,0.976,-9.239,1,0.0545,183.557,4,0.202
+106,"Beyond The Wheel - Live At The Paramount Theatre, Seattle/1992",Badmotorfinger,album,2016,Soundgarden,433,0.000294,0.255,0.877,0.404,2,0.457,-5.955,1,0.0688,113.735,4,0.119
+107,"Into The Void (Sealth) - Live At The Paramount Theatre, Seattle/1992",Badmotorfinger,album,2016,Soundgarden,450,6.53e-05,0.243,0.915,0.319,2,0.707,-6.441,1,0.077,150.43,4,0.307
+108,"Jesus Christ Pose - Live At The Paramount Theatre, Seattle/1992",Badmotorfinger,album,2016,Soundgarden,387,1.04e-05,0.229,0.975,0.709,2,0.875,-5.787,1,0.182,144.62,4,0.148
+109,"Hunted Down - Live At The Paramount Theatre, Seattle/1992",Badmotorfinger,album,2016,Soundgarden,188,2.52e-05,0.359,0.928,0.271,0,0.937,-5.97,1,0.0659,94.369,4,0.417
+110,"Somewhere - Live At The Paramount Theatre, Seattle/1992",Badmotorfinger,album,2016,Soundgarden,263,0.000164,0.166,0.93,0.00664,9,0.852,-5.937,1,0.0872,89.957,4,0.27
+111,"Slaves & Bulldozers - Live At The Paramount Theatre, Seattle/1992",Badmotorfinger,album,2016,Soundgarden,951,0.000572,0.24,0.826,0.447,2,0.919,-6.035,1,0.0488,134.617,4,0.152
+112,Hunted Down - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,162,0.000294,0.374,0.92,0.762,1,0.241,-8.228,1,0.116,165.379,4,0.484
+113,Entering - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,273,0.0114,0.277,0.793,0.949,9,0.179,-7.263,1,0.0947,149.124,4,0.342
+114,Tears to Forget - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,121,0.0137,0.307,0.953,0.904,5,0.237,-7.655,0,0.0775,101.011,4,0.546
+115,Nothing to Say - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,237,0.00139,0.199,0.786,0.815,2,0.227,-7.495,1,0.0508,113.772,4,0.462
+116,Little Joe - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,269,0.00279,0.6,0.631,0.695,2,0.0782,-9.704,1,0.0575,96.277,4,0.891
+117,Hand of God - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,266,0.0139,0.391,0.933,0.238,11,0.374,-6.867,0,0.0871,169.414,3,0.714
+118,Sub Pop Rock City - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,195,0.000335,0.377,0.88,0.0116,2,0.117,-8.321,1,0.102,156.294,4,0.244
+119,Fopp - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,217,0.00449,0.493,0.817,0.00622,0,0.171,-7.901,1,0.0748,187.971,4,0.895
+120,Fopp (Fucked Up Heavy Dub Mix) - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,388,0.00194,0.508,0.907,0.13,5,0.0786,-7.727,1,0.0889,188.095,4,0.707
+121,Kingdom of Come - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,156,0.000769,0.267,0.88,0.086,9,0.215,-8.319,1,0.0796,163.047,4,0.63
+122,Swallow My Pride - Remastered,Screaming Life/Fopp,album,2013,Soundgarden,140,0.000263,0.405,0.868,0.715,4,0.353,-8.923,1,0.0633,133.005,4,0.739
+123,Been Away Too Long,King Animal (Deluxe Version),album,2012,Soundgarden,216,5.49e-05,0.475,0.971,0.0124,9,0.367,-3.541,1,0.102,152.868,4,0.641
+124,Non-State Actor,King Animal (Deluxe Version),album,2012,Soundgarden,237,2.98e-05,0.526,0.924,0.001,9,0.0294,-3.832,1,0.0517,90.027,4,0.856
+125,By Crooked Steps,King Animal (Deluxe Version),album,2012,Soundgarden,240,0.00103,0.58,0.858,0.00134,7,0.192,-4.577,1,0.0422,120.91,5,0.533
+126,A Thousand Days Before,King Animal (Deluxe Version),album,2012,Soundgarden,263,8.15e-05,0.416,0.905,0.00862,5,0.0761,-5.291,1,0.0575,114.742,4,0.158
+127,Blood On The Valley Floor,King Animal (Deluxe Version),album,2012,Soundgarden,228,0.00129,0.473,0.838,0.00253,5,0.101,-4.153,1,0.0373,137.967,4,0.707
+128,Bones Of Birds,King Animal (Deluxe Version),album,2012,Soundgarden,262,0.00557,0.555,0.724,0.00234,7,0.101,-5.561,1,0.0305,126.092,1,0.184
+129,Taree,King Animal (Deluxe Version),album,2012,Soundgarden,218,9.23e-05,0.549,0.839,0.113,5,0.189,-4.444,1,0.0296,112.054,4,0.482
+130,Attrition,King Animal (Deluxe Version),album,2012,Soundgarden,172,0.000109,0.395,0.948,0.000365,9,0.342,-4.959,0,0.0681,75.625,4,0.292
+131,Black Saturday,King Animal (Deluxe Version),album,2012,Soundgarden,209,0.00433,0.527,0.73,0.00019,9,0.101,-5.519,1,0.0359,156.139,4,0.485
+132,Halfway There,King Animal (Deluxe Version),album,2012,Soundgarden,196,0.00959,0.596,0.886,7.51e-05,0,0.118,-4.718,1,0.0302,104.923,4,0.198
+133,Worse Dreams,King Animal (Deluxe Version),album,2012,Soundgarden,293,0.000192,0.535,0.834,0.012,9,0.47,-4.834,1,0.0446,142.007,3,0.393
+134,Eyelid's Mouth,King Animal (Deluxe Version),album,2012,Soundgarden,279,0.00404,0.268,0.657,0.0516,6,0.0731,-4.387,1,0.0366,182.684,4,0.403
+135,Rowing,King Animal (Deluxe Version),album,2012,Soundgarden,306,0.071,0.524,0.629,2.78e-05,9,0.113,-8.047,0,0.0409,115.958,4,0.502
+136,Worse Dreams - Demo,King Animal (Deluxe Version),album,2012,Soundgarden,200,0.00013,0.665,0.495,0.511,9,0.0888,-5.968,1,0.0438,141.967,3,0.269
+137,Black Saturday - Demo,King Animal (Deluxe Version),album,2012,Soundgarden,196,0.0124,0.506,0.726,3.08e-06,5,0.119,-4.794,1,0.0295,154.201,4,0.426
+138,By Crooked Steps - Demo,King Animal (Deluxe Version),album,2012,Soundgarden,262,0.0558,0.446,0.702,0.353,2,0.0704,-7.061,1,0.0419,118.359,5,0.303
+139,Been Away Too Long - Commentary,Commentary,album,2012,Soundgarden,60,0.954,0.593,0.318,0.0,10,0.206,-21.346,0,0.758,79.046,4,0.626
+140,Non-State Actor - Commentary,Commentary,album,2012,Soundgarden,41,0.898,0.73,0.14,0.0,9,0.336,-24.036,0,0.42,106.654,1,0.923
+141,By Crooked Steps - Commentary,Commentary,album,2012,Soundgarden,51,0.962,0.591,0.264,3.6e-06,0,0.141,-21.381,0,0.331,131.923,1,0.574
+142,A Thousand Days Before - Commentary,Commentary,album,2012,Soundgarden,49,0.847,0.668,0.302,0.0,4,0.312,-21.781,0,0.54,133.473,3,0.412
+143,Blood On The Valley Floor - Commentary,Commentary,album,2012,Soundgarden,50,0.948,0.59,0.223,0.0,3,0.142,-21.873,1,0.126,87.735,4,0.529
+144,Bones Of Birds - Commentary,Commentary,album,2012,Soundgarden,49,0.931,0.511,0.204,2.35e-05,10,0.121,-22.66,0,0.303,85.881,4,0.411
+145,Taree - Commentary,Commentary,album,2012,Soundgarden,40,0.861,0.514,0.182,1.17e-06,8,0.17,-24.542,0,0.345,50.951,5,0.476
+146,Attrition - Commentary,Commentary,album,2012,Soundgarden,37,0.782,0.611,0.212,0.0,0,0.125,-23.973,1,0.557,65.613,3,0.516
+147,Black Saturday - Commentary,Commentary,album,2012,Soundgarden,38,0.831,0.574,0.242,0.0,0,0.27,-24.798,1,0.833,86.742,4,0.449
+148,Halfway There - Commentary,Commentary,album,2012,Soundgarden,44,0.887,0.0,0.342,0.0,9,0.298,-22.159,0,0.0,0.0,0,0.0
+149,Worse Dreams - Commentary,Commentary,album,2012,Soundgarden,33,0.862,0.662,0.281,0.0,8,0.325,-23.431,1,0.697,55.42,4,0.566
+150,Eyelid's Mouth - Commentary,Commentary,album,2012,Soundgarden,45,0.897,0.664,0.254,0.0,1,0.198,-21.472,1,0.708,138.005,5,0.471
+151,Rowing - Commentary,Commentary,album,2012,Soundgarden,27,0.778,0.581,0.361,0.0,7,0.602,-22.592,1,0.848,58.027,5,0.602
+152,"Spoonman - Live At Crosby Hall, Del Mar/1996",Live On I-5,album,2011,Soundgarden,263,8.04e-05,0.366,0.92,0.0344,7,0.517,-7.56,1,0.0527,93.992,4,0.487
+153,"Searching With My Good Eye Closed - Live At Crosby Hall, Del Mar/1996",Live On I-5,album,2011,Soundgarden,252,0.00125,0.291,0.867,0.00243,7,0.387,-6.672,1,0.0463,136.591,4,0.35
+154,"Let Me Drown - Live At Crosby Hall, Del Mar/1996",Live On I-5,album,2011,Soundgarden,250,0.000229,0.152,0.953,0.00497,7,0.881,-6.637,1,0.112,196.918,4,0.377
+155,"Head Down - Live At Mercer Arena, Seattle/1996",Live On I-5,album,2011,Soundgarden,385,0.00024,0.184,0.87,0.33,0,0.901,-9.74,1,0.0603,176.666,4,0.483
+156,"Outshined - Live At Crosby Hall, Del Mar/1996",Live On I-5,album,2011,Soundgarden,312,7.67e-05,0.126,0.888,0.00193,7,0.984,-7.205,1,0.0567,195.324,3,0.523
+157,"Rusty Cage - Live At PNE Forum, Vancouver/1996",Live On I-5,album,2011,Soundgarden,278,0.000435,0.246,0.968,0.0769,4,0.961,-7.766,0,0.125,107.23,4,0.172
+158,Burden In My Hand - Live At Salem Armory/1996,Live On I-5,album,2011,Soundgarden,302,0.0106,0.426,0.881,0.000328,5,0.995,-8.91,1,0.0551,96.87,4,0.342
+159,"Helter Skelter - Live At Crosby Hall, Del Mar/1996",Live On I-5,album,2011,Soundgarden,129,0.0116,0.522,0.713,0.556,7,0.449,-9.612,1,0.0398,132.844,4,0.456
+160,"Boot Camp - Live At Crosby Hall, Del Mar/1996",Live On I-5,album,2011,Soundgarden,196,0.000512,0.376,0.801,0.0222,7,0.412,-7.778,1,0.034,133.509,4,0.0871
+161,"Nothing To Say - Live At Mercer Arena, Seattle/1996",Live On I-5,album,2011,Soundgarden,264,2.1e-05,0.113,0.746,0.854,2,0.94,-7.854,0,0.0429,203.489,4,0.373
+162,"Slaves & Bulldozers - Live At Kaiser Convention Center, Oakland/1996",Live On I-5,album,2011,Soundgarden,555,0.000431,0.384,0.662,0.385,7,0.928,-9.865,1,0.033,142.705,4,0.341
+163,"Dusty - Live At Kaiser Convention Center, Oakland/1996",Live On I-5,album,2011,Soundgarden,272,0.00365,0.29,0.852,0.00458,0,0.936,-8.97,1,0.0518,169.818,4,0.497
+164,"Fell On Black Days - Live At Kaiser Convention Center, Oakland/1996",Live On I-5,album,2011,Soundgarden,294,0.00194,0.186,0.836,3.68e-05,4,0.973,-7.461,0,0.0485,207.02,4,0.388
+165,"Search And Destroy - Live At Mercer Arena, Seattle/1996",Live On I-5,album,2011,Soundgarden,189,9.97e-06,0.381,0.948,0.322,4,0.979,-6.581,0,0.0472,91.164,4,0.327
+166,"Ty Cobb - Live At Crosby Hall, Del Mar/1996",Live On I-5,album,2011,Soundgarden,162,7.14e-05,0.282,0.958,0.0675,2,0.997,-7.145,1,0.106,145.064,4,0.312
+167,"Black Hole Sun - Live At Mercer Arena, Seattle/1996",Live On I-5,album,2011,Soundgarden,180,0.791,0.291,0.397,3.76e-06,7,0.916,-12.077,0,0.0344,113.812,4,0.312
+168,"Jesus Christ Pose - Live At Kaiser Convention Center, Oakland/1996",Live On I-5,album,2011,Soundgarden,383,2.34e-05,0.17,0.942,0.403,2,0.37,-8.357,1,0.098,150.713,4,0.106
+169,Pretty Noose,Down On The Upside,album,1996,Soundgarden,251,1.79e-05,0.389,0.925,0.244,0,0.222,-7.97,1,0.0643,150.893,4,0.317
+170,Rhinosaur,Down On The Upside,album,1996,Soundgarden,194,0.000471,0.406,0.775,0.00765,5,0.243,-8.791,0,0.0368,165.085,4,0.731
+171,Zero Chance,Down On The Upside,album,1996,Soundgarden,258,0.00359,0.457,0.569,5.06e-06,7,0.0746,-9.87,1,0.0266,137.28,4,0.219
+172,Dusty,Down On The Upside,album,1996,Soundgarden,274,0.00341,0.376,0.862,0.00552,0,0.0948,-9.347,1,0.0352,160.104,4,0.733
+173,Ty Cobb,Down On The Upside,album,1996,Soundgarden,185,0.00117,0.475,0.989,0.426,0,0.0815,-9.261,1,0.0695,135.045,4,0.191
+174,Blow Up The Outside World,Down On The Upside,album,1996,Soundgarden,345,0.000807,0.33,0.529,0.214,9,0.126,-10.043,1,0.0358,140.156,4,0.148
+175,Burden In My Hand,Down On The Upside,album,1996,Soundgarden,290,0.00534,0.319,0.803,0.0126,10,0.177,-8.928,1,0.0394,183.031,4,0.589
+176,Never Named,Down On The Upside,album,1996,Soundgarden,147,0.00526,0.305,0.894,1.33e-05,5,0.366,-8.4,0,0.0434,165.843,4,0.785
+177,Applebite,Down On The Upside,album,1996,Soundgarden,309,0.0144,0.565,0.412,0.684,7,0.1,-12.604,1,0.0324,126.305,4,0.396
+178,Never The Machine Forever,Down On The Upside,album,1996,Soundgarden,216,7.16e-05,0.481,0.96,0.926,5,0.121,-8.497,0,0.0827,123.163,4,0.285
+179,Tighter & Tighter,Down On The Upside,album,1996,Soundgarden,366,0.000402,0.26,0.725,0.0429,4,0.0626,-9.87,0,0.0397,141.518,4,0.492
+180,No Attention,Down On The Upside,album,1996,Soundgarden,266,0.000461,0.254,0.959,1.86e-05,2,0.378,-8.411,1,0.0785,100.942,4,0.424
+181,Switch Opens,Down On The Upside,album,1996,Soundgarden,232,0.0156,0.373,0.607,0.0105,2,0.104,-9.57,1,0.0302,108.867,3,0.494
+182,Overfloater,Down On The Upside,album,1996,Soundgarden,308,0.0012,0.359,0.619,0.0187,0,0.0854,-9.979,1,0.0286,113.92,4,0.568
+183,An Unkind,Down On The Upside,album,1996,Soundgarden,128,0.000752,0.283,0.963,0.334,11,0.434,-8.417,0,0.14,139.814,4,0.264
+184,Boot Camp,Down On The Upside,album,1996,Soundgarden,179,0.00921,0.511,0.493,0.154,7,0.108,-12.385,1,0.034,128.915,4,0.0403
+185,Let Me Drown,Superunknown (Super Deluxe),album,1994,Soundgarden,232,4.53e-05,0.148,0.947,0.00187,0,0.0872,-4.839,1,0.0958,187.413,4,0.566
+186,My Wave,Superunknown (Super Deluxe),album,1994,Soundgarden,312,0.000132,0.509,0.95,0.00302,9,0.0937,-4.535,0,0.061,126.591,5,0.705
+187,Fell On Black Days,Superunknown (Super Deluxe),album,1994,Soundgarden,283,0.00152,0.574,0.739,0.000328,4,0.141,-5.745,0,0.0271,101.069,3,0.514
+188,Mailman,Superunknown (Super Deluxe),album,1994,Soundgarden,266,0.000425,0.443,0.682,7.47e-05,5,0.0833,-5.99,1,0.0313,96.211,4,0.429
+189,Superunknown,Superunknown (Super Deluxe),album,1994,Soundgarden,306,5.85e-05,0.291,0.949,0.233,0,0.856,-3.619,1,0.0574,133.93,4,0.296
+190,Head Down,Superunknown (Super Deluxe),album,1994,Soundgarden,369,0.000135,0.413,0.825,0.252,5,0.108,-6.347,0,0.0346,83.185,4,0.565
+191,Black Hole Sun,Superunknown (Super Deluxe),album,1994,Soundgarden,318,0.000217,0.35,0.828,0.000161,6,0.0774,-5.373,1,0.041,105.435,4,0.147
+192,Spoonman,Superunknown (Super Deluxe),album,1994,Soundgarden,246,2.18e-05,0.458,0.902,0.195,7,0.258,-5.625,1,0.0314,92.712,4,0.827
+193,Limo Wreck,Superunknown (Super Deluxe),album,1994,Soundgarden,347,0.000429,0.352,0.808,0.000634,7,0.0996,-4.907,1,0.0345,137.875,3,0.236
+194,The Day I Tried To Live,Superunknown (Super Deluxe),album,1994,Soundgarden,320,0.000164,0.472,0.752,0.181,0,0.0903,-6.051,1,0.0555,133.248,4,0.305
+195,Kickstand,Superunknown (Super Deluxe),album,1994,Soundgarden,94,7.47e-06,0.407,0.941,0.0169,9,0.343,-4.801,0,0.0409,91.662,4,0.655
+196,Fresh Tendrils,Superunknown (Super Deluxe),album,1994,Soundgarden,256,2.32e-05,0.31,0.897,0.000879,0,0.13,-5.155,0,0.0498,175.944,4,0.44
+197,4th Of July,Superunknown (Super Deluxe),album,1994,Soundgarden,308,0.118,0.355,0.754,0.000936,5,0.175,-5.692,0,0.0378,142.203,4,0.201
+198,Half,Superunknown (Super Deluxe),album,1994,Soundgarden,134,0.164,0.305,0.71,0.855,6,0.112,-8.296,1,0.0346,88.055,4,0.293
+199,Like Suicide,Superunknown (Super Deluxe),album,1994,Soundgarden,423,8.77e-06,0.416,0.566,0.373,7,0.182,-6.342,1,0.0266,95.455,4,0.232
+200,She Likes Surprises,Superunknown (Super Deluxe),album,1994,Soundgarden,197,0.000365,0.354,0.798,0.0749,3,0.226,-5.465,1,0.0397,139.695,4,0.421
+201,The Day I Tried To Live - Alternate Mix,Superunknown (Super Deluxe),album,1994,Soundgarden,326,0.000826,0.437,0.709,0.000132,9,0.122,-6.183,1,0.0455,131.428,4,0.305
+202,Spoonman - Alternate Steve Fisk Remix,Superunknown (Super Deluxe),album,1994,"Soundgarden, Steve Fisk",321,9.81e-05,0.502,0.814,0.00434,7,0.171,-8.484,1,0.0593,90.599,4,0.689
+203,"Beyond The Wheel - Live At Exibition Stadium, Toronto / 1993",Superunknown (Super Deluxe),album,1994,Soundgarden,349,0.000286,0.347,0.859,0.0964,7,0.968,-5.443,1,0.0625,115.399,4,0.217
+204,"Fell On Black Days - Live At Pine Knob Music Theater, Clarkston, MI / 1993",Superunknown (Super Deluxe),album,1994,Soundgarden,291,0.00419,0.381,0.881,0.000472,0,0.367,-5.576,1,0.038,100.057,4,0.384
+205,Birth Ritual - Original Demo Version,Superunknown (Super Deluxe),album,1994,Soundgarden,350,0.000129,0.476,0.959,0.00259,2,0.064,-5.311,1,0.123,127.062,1,0.206
+206,"Jesus Christ Pose - Live At Rushmore Plaza Civic Center, Rapid City, SD / 1993",Superunknown (Super Deluxe),album,1994,Soundgarden,429,0.00018,0.213,0.925,0.566,2,0.388,-5.376,1,0.146,104.315,4,0.262
+207,Like Suicide - Acoustic Version,Superunknown (Super Deluxe),album,1994,Soundgarden,372,0.565,0.614,0.341,0.000808,7,0.0974,-11.469,1,0.0256,97.087,4,0.154
+208,"Kickstand - Live At Jones Beach Amphitheatre, Wantagh, NY / 1993",Superunknown (Super Deluxe),album,1994,Soundgarden,119,9.85e-05,0.372,0.948,6.31e-06,2,0.63,-6.412,1,0.129,95.467,3,0.365
+209,"My Wave - Live At Jones Beach Amphitheatre, Wantagh, NY / 1993",Superunknown (Super Deluxe),album,1994,Soundgarden,268,0.00167,0.463,0.922,0.00035,4,0.417,-4.656,1,0.0657,125.365,5,0.722
+210,Spoonman - Steve Fisk Remix,Superunknown (Super Deluxe),album,1994,"Soundgarden, Steve Fisk",417,0.00399,0.534,0.911,0.305,11,0.346,-10.515,0,0.478,90.337,1,0.477
+211,Exit Stonehenge,Superunknown (Super Deluxe),album,1994,Soundgarden,81,1e-05,0.431,0.936,0.0825,0,0.193,-6.314,0,0.0537,147.403,4,0.772
+212,"Kyle Petty, Son Of Richard",Superunknown (Super Deluxe),album,1994,Soundgarden,246,1.03e-05,0.308,0.902,0.81,2,0.164,-4.735,1,0.0656,184.348,4,0.561
+213,Black Days III,Superunknown (Super Deluxe),album,1994,Soundgarden,243,0.000833,0.489,0.744,0.518,9,0.195,-6.356,0,0.0281,106.851,4,0.612
+214,Ghostmotorfinger,Superunknown (Super Deluxe),album,1994,Soundgarden,93,0.926,0.12,0.354,0.867,6,0.173,-18.908,0,0.0479,84.101,3,0.382
+215,Jerry Garcia's Finger,Superunknown (Super Deluxe),album,1994,Soundgarden,204,0.211,0.254,0.789,0.857,0,0.144,-9.922,1,0.161,141.839,4,0.246
+216,Fell On Black Days - Video Version,Superunknown (Super Deluxe),album,1994,Soundgarden,327,0.00117,0.231,0.694,0.0288,4,0.131,-6.872,0,0.086,199.739,4,0.309
+217,Let Me Drown - Demo Version,Superunknown (Super Deluxe),album,1994,Soundgarden,251,0.0474,0.507,0.757,0.00421,11,0.0823,-7.439,1,0.0348,91.334,4,0.72
+218,Fell On Black Days - Demo Version,Superunknown (Super Deluxe),album,1994,Soundgarden,294,0.154,0.551,0.721,0.323,0,0.387,-7.176,1,0.029,97.92,3,0.47
+219,Superunknown,Superunknown (Super Deluxe),album,1994,Soundgarden,337,0.191,0.256,0.93,0.774,11,0.104,-5.78,1,0.0744,131.767,4,0.223
+220,Black Hole Sun - Demo Version,Superunknown (Super Deluxe),album,1994,Soundgarden,339,0.247,0.432,0.668,0.0678,6,0.0926,-7.479,1,0.0373,105.005,4,0.206
+221,Spoonman - Demo Version,Superunknown (Super Deluxe),album,1994,Soundgarden,218,0.369,0.541,0.577,0.732,8,0.106,-8.917,1,0.033,89.114,4,0.96
+222,Fresh Tendrils - Demo Version,Superunknown (Super Deluxe),album,1994,Soundgarden,227,0.164,0.421,0.771,0.774,7,0.124,-8.316,1,0.0313,171.545,4,0.49
+223,4th Of July - Demo Version,Superunknown (Super Deluxe),album,1994,Soundgarden,306,0.247,0.198,0.585,0.628,3,0.0823,-9.1,1,0.0347,73.8,4,0.174
+224,Half - Demo Version,Superunknown (Super Deluxe),album,1994,Soundgarden,97,0.939,0.606,0.462,0.863,6,0.148,-12.558,1,0.0394,111.653,3,0.969
+225,Like Suicide - Demo Version,Superunknown (Super Deluxe),album,1994,Soundgarden,550,0.111,0.168,0.581,0.229,6,0.0772,-9.896,1,0.0346,171.996,4,0.177
+226,Black Hole Sun - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,346,0.0192,0.527,0.744,0.00818,10,0.0673,-6.189,1,0.0355,98.179,4,0.327
+227,Bing Bing Goes To Church - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,125,6.29e-05,0.474,0.831,0.405,9,0.156,-7.055,0,0.0399,143.989,4,0.935
+228,Half (Instrumentally) - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,222,0.00959,0.355,0.417,0.882,5,0.0967,-7.601,1,0.04,79.934,4,0.484
+229,Head Down - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,326,4.05e-05,0.438,0.802,0.512,0,0.159,-6.051,1,0.0317,167.271,4,0.378
+230,"Kyle Petty, Son Of Richard - Rehearsal Version",Superunknown (Super Deluxe),album,1994,Soundgarden,209,4.77e-05,0.543,0.887,0.666,2,0.0698,-5.849,1,0.029,88.8,4,0.76
+231,Let Me Drown - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,234,3.7e-05,0.503,0.911,0.147,0,0.112,-5.934,1,0.0492,94.669,4,0.784
+232,Limo Wreck - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,342,0.0016,0.576,0.758,0.135,7,0.188,-5.546,1,0.0269,136.98,3,0.315
+233,My Wave - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,276,0.0021,0.616,0.944,0.0556,11,0.0389,-4.214,0,0.0449,128.607,5,0.931
+234,Fresh Tendrils - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,259,0.000693,0.408,0.664,0.0659,0,0.106,-6.336,1,0.0284,176.134,4,0.378
+235,Like Suicide - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,408,0.000234,0.492,0.624,0.625,2,0.151,-7.128,1,0.026,98.396,4,0.39
+236,Ruff Riff-Raff - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,223,3.92e-05,0.482,0.814,0.864,7,0.399,-6.556,0,0.0435,127.653,4,0.363
+237,Spoonman - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,274,0.000137,0.332,0.88,0.705,7,0.117,-6.151,1,0.0807,183.385,3,0.755
+238,The Date I Tried To Leave - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,140,0.00932,0.495,0.631,0.0415,0,0.226,-7.149,1,0.0332,133.34,4,0.439
+239,The Day I Tried To Live - Rehearsal Version,Superunknown (Super Deluxe),album,1994,Soundgarden,363,0.00371,0.493,0.715,0.585,6,0.124,-7.05,0,0.0405,124.191,4,0.399
+240,Let Me Drown,Superunknown (Deluxe Edition),album,1994,Soundgarden,232,4.53e-05,0.148,0.947,0.00187,0,0.0872,-4.839,1,0.0958,187.413,4,0.566
+241,My Wave,Superunknown (Deluxe Edition),album,1994,Soundgarden,312,0.000132,0.509,0.95,0.00302,9,0.0937,-4.535,0,0.061,126.591,5,0.705
+242,Fell On Black Days,Superunknown (Deluxe Edition),album,1994,Soundgarden,283,0.00152,0.574,0.739,0.000328,4,0.141,-5.745,0,0.0271,101.069,3,0.514
+243,Mailman,Superunknown (Deluxe Edition),album,1994,Soundgarden,266,0.000425,0.443,0.682,7.47e-05,5,0.0833,-5.99,1,0.0313,96.211,4,0.429
+244,Superunknown,Superunknown (Deluxe Edition),album,1994,Soundgarden,306,5.85e-05,0.291,0.949,0.233,0,0.856,-3.619,1,0.0574,133.93,4,0.296
+245,Head Down,Superunknown (Deluxe Edition),album,1994,Soundgarden,369,0.000135,0.413,0.825,0.252,5,0.108,-6.347,0,0.0346,83.185,4,0.565
+246,Black Hole Sun,Superunknown (Deluxe Edition),album,1994,Soundgarden,318,0.000217,0.35,0.828,0.000161,6,0.0774,-5.373,1,0.041,105.435,4,0.147
+247,Spoonman,Superunknown (Deluxe Edition),album,1994,Soundgarden,246,2.18e-05,0.458,0.902,0.195,7,0.258,-5.625,1,0.0314,92.712,4,0.827
+248,Limo Wreck,Superunknown (Deluxe Edition),album,1994,Soundgarden,347,0.000429,0.352,0.808,0.000634,7,0.0996,-4.907,1,0.0345,137.875,3,0.236
+249,The Day I Tried To Live,Superunknown (Deluxe Edition),album,1994,Soundgarden,320,0.000164,0.472,0.752,0.181,0,0.0903,-6.051,1,0.0555,133.248,4,0.305
+250,Kickstand,Superunknown (Deluxe Edition),album,1994,Soundgarden,94,7.47e-06,0.407,0.941,0.0169,9,0.343,-4.801,0,0.0409,91.662,4,0.655
+251,Fresh Tendrils,Superunknown (Deluxe Edition),album,1994,Soundgarden,256,2.32e-05,0.31,0.897,0.000879,0,0.13,-5.155,0,0.0498,175.944,4,0.44
+252,4th Of July,Superunknown (Deluxe Edition),album,1994,Soundgarden,308,0.118,0.355,0.754,0.000936,5,0.175,-5.692,0,0.0378,142.203,4,0.201
+253,Half,Superunknown (Deluxe Edition),album,1994,Soundgarden,134,0.164,0.305,0.71,0.855,6,0.112,-8.296,1,0.0346,88.055,4,0.293
+254,Like Suicide,Superunknown (Deluxe Edition),album,1994,Soundgarden,423,8.77e-06,0.416,0.566,0.373,7,0.182,-6.342,1,0.0266,95.455,4,0.232
+255,She Likes Surprises,Superunknown (Deluxe Edition),album,1994,Soundgarden,197,0.000365,0.354,0.798,0.0749,3,0.226,-5.465,1,0.0397,139.695,4,0.421
+256,Let Me Drown - Demo Version,Superunknown (Deluxe Edition),album,1994,Soundgarden,251,0.0474,0.507,0.757,0.00421,11,0.0823,-7.439,1,0.0348,91.334,4,0.72
+257,Black Hole Sun - Demo Version,Superunknown (Deluxe Edition),album,1994,Soundgarden,338,0.289,0.436,0.666,0.102,6,0.0931,-7.482,1,0.0375,105.026,4,0.215
+258,Half - Demo Version,Superunknown (Deluxe Edition),album,1994,Soundgarden,97,0.933,0.583,0.462,0.884,6,0.144,-12.507,1,0.0364,83.871,4,0.967
+259,Head Down - Rehearsal Version,Superunknown (Deluxe Edition),album,1994,Soundgarden,326,4.38e-05,0.439,0.807,0.487,0,0.104,-6.047,1,0.0323,167.263,4,0.382
+260,Limo Wreck - Rehearsal Version,Superunknown (Deluxe Edition),album,1994,Soundgarden,342,0.00181,0.577,0.759,0.13,7,0.192,-5.563,1,0.0265,136.978,3,0.329
+261,The Day I Tried To Live - Rehearsal Version,Superunknown (Deluxe Edition),album,1994,Soundgarden,363,0.00335,0.518,0.711,0.667,6,0.122,-7.087,0,0.039,124.535,4,0.374
+262,Like Suicide - Acoustic Version,Superunknown (Deluxe Edition),album,1994,Soundgarden,372,0.558,0.615,0.346,0.000897,7,0.129,-11.2,1,0.0254,97.076,4,0.141
+263,Black Days III,Superunknown (Deluxe Edition),album,1994,Soundgarden,243,0.000872,0.488,0.741,0.387,2,0.182,-6.341,0,0.0278,107.097,4,0.64
+264,Birth Ritual - Original Demo Version,Superunknown (Deluxe Edition),album,1994,Soundgarden,350,0.000157,0.477,0.956,0.00444,2,0.0654,-5.31,1,0.133,127.042,1,0.181
+265,Exit Stonehenge,Superunknown (Deluxe Edition),album,1994,Soundgarden,81,8.19e-06,0.43,0.942,0.119,0,0.204,-6.291,0,0.0539,147.401,4,0.783
+266,"Kyle Petty, Son Of Richard",Superunknown (Deluxe Edition),album,1994,Soundgarden,246,1.13e-05,0.319,0.909,0.746,2,0.159,-4.725,1,0.0644,184.156,4,0.565
+267,Jerry Garcia's Finger,Superunknown (Deluxe Edition),album,1994,Soundgarden,204,0.233,0.251,0.777,0.901,0,0.144,-9.943,1,0.162,143.197,4,0.195
+268,Spoonman - Alternate Steve Fisk Remix,Superunknown (Deluxe Edition),album,1994,"Soundgarden, Steve Fisk",321,0.000101,0.502,0.82,0.00266,7,0.212,-8.467,1,0.0616,90.673,4,0.65
+269,The Day I Tried To Live - Alternate Mix,Superunknown (Deluxe Edition),album,1994,Soundgarden,326,0.000833,0.437,0.708,0.000125,9,0.122,-6.184,1,0.0457,131.427,4,0.305
+270,4th Of July - Instrumental,Superunknown (Deluxe Edition),album,1994,Soundgarden,313,0.00161,0.428,0.652,0.763,8,0.124,-7.539,1,0.0299,141.888,4,0.202
+271,Superunknown - Instrumental,Superunknown (Deluxe Edition),album,1994,Soundgarden,309,4e-05,0.317,0.931,0.843,0,0.342,-6.573,1,0.0437,133.754,4,0.373
+272,Let Me Drown,Superunknown (20th Anniversary),album,1994,Soundgarden,232,4.53e-05,0.148,0.947,0.00187,0,0.0872,-4.839,1,0.0958,187.413,4,0.566
+273,My Wave,Superunknown (20th Anniversary),album,1994,Soundgarden,312,0.000132,0.509,0.95,0.00302,9,0.0937,-4.535,0,0.061,126.591,5,0.705
+274,Fell On Black Days,Superunknown (20th Anniversary),album,1994,Soundgarden,283,0.00152,0.574,0.739,0.000328,4,0.141,-5.745,0,0.0271,101.069,3,0.514
+275,Mailman,Superunknown (20th Anniversary),album,1994,Soundgarden,266,0.000425,0.443,0.682,7.47e-05,5,0.0833,-5.99,1,0.0313,96.211,4,0.429
+276,Superunknown,Superunknown (20th Anniversary),album,1994,Soundgarden,306,5.85e-05,0.291,0.949,0.233,0,0.856,-3.619,1,0.0574,133.93,4,0.296
+277,Head Down,Superunknown (20th Anniversary),album,1994,Soundgarden,369,0.000135,0.413,0.825,0.252,5,0.108,-6.347,0,0.0346,83.185,4,0.565
+278,Black Hole Sun,Superunknown (20th Anniversary),album,1994,Soundgarden,318,0.000217,0.35,0.828,0.000161,6,0.0774,-5.373,1,0.041,105.435,4,0.147
+279,Spoonman,Superunknown (20th Anniversary),album,1994,Soundgarden,246,2.17e-05,0.457,0.902,0.196,7,0.258,-5.624,1,0.0313,92.711,4,0.834
+280,Limo Wreck,Superunknown (20th Anniversary),album,1994,Soundgarden,347,0.000429,0.352,0.808,0.000634,7,0.0996,-4.907,1,0.0345,137.875,3,0.236
+281,The Day I Tried To Live,Superunknown (20th Anniversary),album,1994,Soundgarden,320,0.000164,0.472,0.752,0.181,0,0.0903,-6.051,1,0.0555,133.248,4,0.305
+282,Kickstand,Superunknown (20th Anniversary),album,1994,Soundgarden,94,7.47e-06,0.407,0.941,0.0169,9,0.343,-4.801,0,0.0409,91.662,4,0.655
+283,Fresh Tendrils,Superunknown (20th Anniversary),album,1994,Soundgarden,256,2.32e-05,0.31,0.897,0.000879,0,0.13,-5.155,0,0.0498,175.944,4,0.44
+284,4th Of July,Superunknown (20th Anniversary),album,1994,Soundgarden,308,0.118,0.355,0.754,0.000936,5,0.175,-5.692,0,0.0378,142.203,4,0.201
+285,Half,Superunknown (20th Anniversary),album,1994,Soundgarden,134,0.164,0.305,0.71,0.855,6,0.112,-8.296,1,0.0346,88.055,4,0.293
+286,Like Suicide,Superunknown (20th Anniversary),album,1994,Soundgarden,423,8.77e-06,0.416,0.566,0.373,7,0.182,-6.342,1,0.0266,95.455,4,0.232
+287,Ugly Truth,Louder Than Love,album,1989,Soundgarden,326,0.0102,0.387,0.573,0.0336,4,0.0528,-11.834,0,0.0403,129.98,3,0.465
+288,Hands All Over,Louder Than Love,album,1989,Soundgarden,360,0.00828,0.188,0.928,0.527,7,0.085,-10.003,1,0.0694,181.249,4,0.224
+289,Gun,Louder Than Love,album,1989,Soundgarden,282,0.00239,0.361,0.903,0.38,9,0.0752,-11.478,1,0.0667,133.58,4,0.187
+290,Power Trip,Louder Than Love,album,1989,Soundgarden,249,0.288,0.216,0.754,0.000179,9,0.0947,-10.199,0,0.0545,174.268,3,0.329
+291,Get On The Snake,Louder Than Love,album,1989,Soundgarden,223,0.00423,0.361,0.882,0.0158,9,0.228,-10.568,1,0.0618,127.332,4,0.36
+292,Full On Kevin's Mom,Louder Than Love,album,1989,Soundgarden,217,0.0167,0.239,0.955,0.0816,9,0.112,-9.274,1,0.0608,136.502,4,0.164
+293,Loud Love,Louder Than Love,album,1989,Soundgarden,297,0.006,0.34,0.797,0.0763,2,0.0781,-10.745,1,0.0535,135.407,4,0.19
+294,I Awake,Louder Than Love,album,1989,Soundgarden,261,0.311,0.568,0.626,0.148,4,0.106,-12.019,0,0.0391,124.531,3,0.208
+295,No Wrong No Right,Louder Than Love,album,1989,Soundgarden,287,0.0323,0.304,0.718,3.4e-05,7,0.12,-10.645,0,0.0447,134.31,4,0.363
+296,Uncovered,Louder Than Love,album,1989,Soundgarden,270,0.248,0.379,0.82,0.000869,9,0.147,-11.449,0,0.0458,151.157,3,0.187
+297,Big Dumb Sex,Louder Than Love,album,1989,Soundgarden,251,0.00551,0.267,0.848,0.000491,6,0.494,-9.546,0,0.0584,175.458,4,0.483
+298,Full On,Louder Than Love,album,1989,Soundgarden,162,0.123,0.27,0.638,0.0518,9,0.359,-11.742,1,0.0506,132.472,4,0.304
+299,Black Hole Sun - Live From The Artists Den,Black Hole Sun/New Damage/Blind Dogs,single,2019,Soundgarden,350,0.0127,0.365,0.747,0.00109,7,0.35,-9.766,1,0.0402,107.596,4,0.249
+300,New Damage - Live From The Artists Den,Black Hole Sun/New Damage/Blind Dogs,single,2019,Soundgarden,402,0.0759,0.366,0.799,0.000574,7,0.928,-9.989,1,0.0755,121.72,3,0.183
+301,Blind Dogs - Live From The Artists Den,Black Hole Sun/New Damage/Blind Dogs,single,2019,Soundgarden,360,0.118,0.286,0.599,0.00054,7,0.699,-11.605,1,0.0491,155.518,4,0.281
+302,Birth Ritual - Studio Outtake,Birth Ritual (Studio Outtake),single,2016,Soundgarden,330,1.23e-05,0.501,0.966,0.897,7,0.147,-6.773,1,0.0679,130.492,1,0.416
+303,"Searching With My Good Eye Closed - Live At The Paramount Theatre, Seattle / 1992","Searching With My Good Eye Closed (Live At The Paramount Theatre, Seattle / 1992)",single,2016,Soundgarden,267,9.33e-05,0.278,0.943,0.131,2,0.903,-5.539,1,0.0974,136.889,4,0.347
+304,Rusty Cage - Studio Outtake,Rusty Cage (Studio Outtake),single,2016,Soundgarden,271,7.04e-05,0.278,0.935,0.785,2,0.296,-6.928,1,0.0815,102.068,4,0.443
+305,Spoonman - Steve Aoki Remix,Spoonman (Remix By Steve Aoki),single,2016,"Soundgarden, Steve Aoki",164,0.00806,0.464,0.843,0.000258,7,0.0669,-3.843,1,0.0573,92.035,4,0.0355
+306,Live to Rise,Live to Rise,single,2012,Soundgarden,280,0.000969,0.483,0.742,0.00468,4,0.835,-5.006,0,0.0326,84.049,4,0.252

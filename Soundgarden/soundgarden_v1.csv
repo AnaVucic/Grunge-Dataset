@@ -1,0 +1,118 @@
+track_name,album_name,album_type,release_year,artists,duration,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,track_album,writers
+Flower,Ultramega OK,album,2017,Soundgarden,206,0.00241,0.47,0.789,0.0265,7,0.258,-5.468,1,0.0562,100.787,4,0.336,flower ultramega ok,"Chris Cornell, Kim Thayil"
+All Your Lies,Ultramega OK,album,2017,Soundgarden,229,1.56e-05,0.362,0.921,0.132,4,0.319,-4.617,0,0.0724,91.717,4,0.319,all your lies ultramega ok,
+665,Ultramega OK,album,2017,Soundgarden,98,0.0431,0.497,0.754,0.609,7,0.148,-11.452,1,0.0536,111.775,4,0.394,665 ultramega ok,"Chris Cornell, Hiro Yamamoto"
+Beyond the Wheel,Ultramega OK,album,2017,Soundgarden,262,0.00982,0.327,0.732,0.159,2,0.217,-7.009,1,0.0402,145.725,4,0.256,beyond the wheel ultramega ok,Chris Cornell
+667,Ultramega OK,album,2017,Soundgarden,55,0.0119,0.603,0.521,0.232,7,0.093,-14.031,1,0.0406,112.262,4,0.164,667 ultramega ok,"Chris Cornell, Hiro Yamamoto"
+Mood for Trouble,Ultramega OK,album,2017,Soundgarden,260,0.0117,0.288,0.846,0.000251,4,0.111,-5.708,0,0.0408,140.122,4,0.2,mood for trouble ultramega ok,Chris Cornell
+Circle of Power,Ultramega OK,album,2017,Soundgarden,124,0.00289,0.293,0.976,1.02e-05,9,0.383,-4.073,0,0.131,138.104,5,0.466,circle of power ultramega ok,"Kim Thayil, Hiro Yamamoto"
+He Didn't,Ultramega OK,album,2017,Soundgarden,167,0.0139,0.452,0.939,0.000547,9,0.355,-4.136,0,0.0502,140.437,3,0.776,he didn't ultramega ok,"Chris Cornell, Matt Cameron"
+Smokestack Lightning,Ultramega OK,album,2017,Soundgarden,276,0.000625,0.402,0.781,0.00662,2,0.0978,-5.873,1,0.03,74.422,4,0.589,smokestack lightning ultramega ok,Chester Burnett
+Nazi Driver,Ultramega OK,album,2017,Soundgarden,232,0.000276,0.383,0.934,1.98e-05,4,0.136,-5.575,0,0.106,80.934,4,0.217,nazi driver ultramega ok,"Chris Cornell, Hiro Yamamoto"
+Head Injury,Ultramega OK,album,2017,Soundgarden,140,0.000931,0.515,0.874,0.679,8,0.103,-7.593,0,0.0768,117.446,4,0.659,head injury ultramega ok,Chris Cornell
+Incessant Mace,Ultramega OK,album,2017,Soundgarden,381,3.84e-05,0.219,0.786,0.000114,11,0.117,-5.524,0,0.0413,97.096,3,0.144,incessant mace ultramega ok,"Chris Cornell, Kim Thayil"
+One Minute of Silence,Ultramega OK,album,2017,Soundgarden,62,0.156,0.16,0.344,0.931,6,0.285,-43.205,1,0.0757,130.582,4,0.0042,one minute of silence ultramega ok,John Lennon
+Head Injury - Early Version,Ultramega OK,album,2017,Soundgarden,179,6.43e-05,0.433,0.97,0.888,8,0.148,-3.832,1,0.0618,102.796,4,0.534,head injury - early version ultramega ok,
+Beyond the Wheel - Early Version,Ultramega OK,album,2017,Soundgarden,295,0.00824,0.436,0.876,0.0654,2,0.109,-5.041,1,0.0615,125.582,4,0.199,beyond the wheel - early version ultramega ok,
+Incessant Mace (Short) - Early Version,Ultramega OK,album,2017,Soundgarden,382,0.000266,0.224,0.785,0.473,9,0.0789,-6.639,1,0.0348,96.181,4,0.312,incessant mace (short) - early version ultramega ok,
+He Didn't - Early Version,Ultramega OK,album,2017,Soundgarden,174,1.64e-05,0.215,0.984,0.0012,1,0.376,-5.22,0,0.0884,139.273,3,0.475,he didn't - early version ultramega ok,
+All Your Lies - Early Version,Ultramega OK,album,2017,Soundgarden,224,1.44e-05,0.271,0.961,0.174,4,0.256,-5.511,0,0.0826,92.671,4,0.389,all your lies - early version ultramega ok,
+Incessant Mace (Long) - Early Version,Ultramega OK,album,2017,Soundgarden,469,0.0546,0.204,0.861,0.871,9,0.0908,-6.708,1,0.0602,165.724,3,0.237,incessant mace (long) - early version ultramega ok,
+Rusty Cage,Badmotorfinger,album,2016,Soundgarden,266,1.65e-05,0.307,0.917,0.00044,9,0.0566,-7.599,1,0.0977,101.879,4,0.266,rusty cage badmotorfinger,Chris Cornell
+Outshined,Badmotorfinger,album,2016,Soundgarden,311,0.000173,0.485,0.841,0.00686,2,0.125,-6.068,0,0.0307,94.867,4,0.551,outshined badmotorfinger,Chris Cornell
+Slaves & Bulldozers,Badmotorfinger,album,2016,Soundgarden,416,3.86e-05,0.476,0.731,0.00213,0,0.305,-6.053,1,0.0336,130.981,4,0.215,slaves & bulldozers badmotorfinger,"Chris Cornell, Ben Shepherd"
+Jesus Christ Pose,Badmotorfinger,album,2016,Soundgarden,351,6.66e-06,0.341,0.965,0.723,9,0.317,-5.976,1,0.107,134.328,4,0.273,jesus christ pose badmotorfinger,"Chris Cornell, Kim Thayil, Ben Shepherd, Matt Cameron"
+Face Pollution,Badmotorfinger,album,2016,Soundgarden,143,5.07e-06,0.227,0.968,0.749,0,0.353,-5.483,1,0.133,117.771,4,0.485,face pollution badmotorfinger,"Chris Cornell, Ben Shepherd"
+Somewhere,Badmotorfinger,album,2016,Soundgarden,261,0.000458,0.158,0.915,0.0145,9,0.487,-6.066,1,0.124,178.307,4,0.388,somewhere badmotorfinger,Ben Shepherd
+Searching With My Good Eye Closed,Badmotorfinger,album,2016,Soundgarden,391,1.77e-05,0.307,0.777,0.514,9,0.25,-7.796,1,0.0577,125.602,4,0.0612,searching with my good eye closed badmotorfinger,Chris Cornell
+Room A Thousand Years Wide,Badmotorfinger,album,2016,Soundgarden,246,1.55e-05,0.497,0.966,0.246,10,0.231,-4.843,1,0.0516,112.042,3,0.541,room a thousand years wide badmotorfinger,
+Mind Riot,Badmotorfinger,album,2016,Soundgarden,289,6.24e-05,0.461,0.836,0.471,6,0.131,-6.571,0,0.0305,95.993,4,0.35,mind riot badmotorfinger,Chris Cornell
+Drawing Flies,Badmotorfinger,album,2016,Soundgarden,146,5.79e-06,0.296,0.929,0.000198,9,0.247,-5.862,1,0.0906,105.312,4,0.716,drawing flies badmotorfinger,"Chris Cornell, Matt Cameron"
+Holy Water,Badmotorfinger,album,2016,Soundgarden,307,0.000119,0.372,0.87,0.0319,4,0.108,-5.6,0,0.0408,172.688,4,0.53,holy water badmotorfinger,Chris Cornell
+New Damage,Badmotorfinger,album,2016,Soundgarden,340,6.66e-05,0.323,0.918,0.0258,5,0.118,-5.679,1,0.0477,119.396,4,0.245,new damage badmotorfinger,"Chris Cornell, Kim Thayil, Matt Cameron"
+Rusty Cage - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,271,7.04e-05,0.278,0.935,0.785,2,0.296,-6.928,1,0.0815,102.068,4,0.443,rusty cage - studio outtake badmotorfinger,
+Outshined - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,313,1.01e-05,0.462,0.799,0.738,0,0.193,-7.259,1,0.0275,95.691,4,0.704,outshined - studio outtake badmotorfinger,
+Slaves & Bulldozers - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,426,8.81e-06,0.429,0.794,0.914,0,0.368,-7.983,1,0.0323,136.106,4,0.465,slaves & bulldozers - studio outtake badmotorfinger,
+Jesus Christ Pose - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,342,3.31e-06,0.378,0.977,0.609,9,0.117,-7.177,1,0.0854,133.795,4,0.336,jesus christ pose - studio outtake badmotorfinger,
+Face Pollution - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,146,1.61e-06,0.27,0.94,0.904,0,0.333,-7.712,1,0.0707,115.153,4,0.653,face pollution - studio outtake badmotorfinger,
+Somewhere - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,262,1.31e-05,0.232,0.875,0.386,9,0.322,-7.552,1,0.0428,89.576,4,0.465,somewhere - studio outtake badmotorfinger,
+Searching With My Good Eye Closed - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,421,0.00046,0.289,0.824,0.751,9,0.0746,-7.633,1,0.0346,124.961,4,0.2,searching with my good eye closed - studio outtake badmotorfinger,
+Room A Thousand Years Wide - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,247,2.39e-06,0.482,0.943,0.748,2,0.1,-6.956,0,0.0497,111.897,3,0.211,room a thousand years wide - studio outtake badmotorfinger,
+Drawing Flies - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,156,3.88e-06,0.373,0.914,0.478,9,0.547,-7.359,1,0.0655,142.07,3,0.574,drawing flies - studio outtake badmotorfinger,
+Holy Water - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,331,0.000119,0.342,0.939,0.822,4,0.309,-6.578,0,0.0619,172.207,4,0.333,holy water - studio outtake badmotorfinger,
+Cold Bitch - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,323,4.63e-06,0.399,0.864,0.237,9,0.19,-7.36,1,0.0401,77.34,1,0.295,cold bitch - studio outtake badmotorfinger,
+She's A Politician - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,113,2.95e-06,0.287,0.973,0.862,1,0.122,-7.749,0,0.0697,151.682,4,0.827,she's a politician - studio outtake badmotorfinger,
+Black Rain (Black Days) - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,298,1.74e-05,0.16,0.867,0.92,7,0.117,-6.353,0,0.0518,87.894,4,0.393,black rain (black days) - studio outtake badmotorfinger,
+Birth Ritual - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,330,1.23e-05,0.501,0.966,0.897,7,0.147,-6.773,1,0.0679,130.492,1,0.416,birth ritual - studio outtake badmotorfinger,
+Blind Dogs - Studio Outtake,Badmotorfinger,album,2016,Soundgarden,440,2.3e-05,0.286,0.697,0.504,7,0.098,-7.38,1,0.034,137.832,3,0.312,blind dogs - studio outtake badmotorfinger,
+New Damage,Badmotorfinger,album,2016,"Soundgarden, Brian May",320,9.71e-06,0.283,0.825,0.308,7,0.143,-5.662,1,0.0415,119.837,3,0.215,new damage badmotorfinger,"Chris Cornell, Kim Thayil, Matt Cameron"
+Hunted Down,Screaming Life/Fopp,album,2013,Soundgarden,162,0.000294,0.374,0.92,0.762,1,0.241,-8.228,1,0.116,165.379,4,0.484,hunted down screaming life/fopp,"Chris Cornell, Kim Thayil"
+Entering,Screaming Life/Fopp,album,2013,Soundgarden,273,0.0114,0.277,0.793,0.949,9,0.179,-7.263,1,0.0947,149.124,4,0.342,entering screaming life/fopp,"Chris Cornell, Kim Thayil"
+Tears to Forget,Screaming Life/Fopp,album,2013,Soundgarden,121,0.0137,0.307,0.953,0.904,5,0.237,-7.655,0,0.0775,101.011,4,0.546,tears to forget screaming life/fopp,
+Nothing to Say,Screaming Life/Fopp,album,2013,Soundgarden,237,0.00139,0.199,0.786,0.815,2,0.227,-7.495,1,0.0508,113.772,4,0.462,nothing to say screaming life/fopp,"Chris Cornell, Kim Thayil, Hiro Yamamoto, Matt Cameron"
+Little Joe,Screaming Life/Fopp,album,2013,Soundgarden,269,0.00279,0.6,0.631,0.695,2,0.0782,-9.704,1,0.0575,96.277,4,0.891,little joe screaming life/fopp,"Chris Cornell, Kim Thayil"
+Hand of God,Screaming Life/Fopp,album,2013,Soundgarden,266,0.0139,0.391,0.933,0.238,11,0.374,-6.867,0,0.0871,169.414,3,0.714,hand of god screaming life/fopp,"Chris Cornell, Kim Thayil"
+Sub Pop Rock City,Screaming Life/Fopp,album,2013,Soundgarden,195,0.000335,0.377,0.88,0.0116,2,0.117,-8.321,1,0.102,156.294,4,0.244,sub pop rock city screaming life/fopp,
+Fopp,Screaming Life/Fopp,album,2013,Soundgarden,217,0.00449,0.493,0.817,0.00622,0,0.171,-7.901,1,0.0748,187.971,4,0.895,fopp screaming life/fopp,
+Fopp (Fucked Up Heavy Dub Mix),Screaming Life/Fopp,album,2013,Soundgarden,388,0.00194,0.508,0.907,0.13,5,0.0786,-7.727,1,0.0889,188.095,4,0.707,fopp (fucked up heavy dub mix) screaming life/fopp,
+Kingdom of Come,Screaming Life/Fopp,album,2013,Soundgarden,156,0.000769,0.267,0.88,0.086,9,0.215,-8.319,1,0.0796,163.047,4,0.63,kingdom of come screaming life/fopp,Chris Cornell
+Swallow My Pride,Screaming Life/Fopp,album,2013,Soundgarden,140,0.000263,0.405,0.868,0.715,4,0.353,-8.923,1,0.0633,133.005,4,0.739,swallow my pride screaming life/fopp,"Mark Arm, Steve Turner"
+Been Away Too Long,King Animal,album,2012,Soundgarden,216,5.49e-05,0.475,0.971,0.0124,9,0.367,-3.541,1,0.102,152.868,4,0.641,been away too long king animal,"Chris Cornell, Ben Shepherd"
+Non-State Actor,King Animal,album,2012,Soundgarden,237,2.98e-05,0.526,0.924,0.001,9,0.0294,-3.832,1,0.0517,90.027,4,0.856,non-state actor king animal,"Chris Cornell, Kim Thayil, Ben Shepherd"
+By Crooked Steps,King Animal,album,2012,Soundgarden,240,0.00103,0.58,0.858,0.00134,7,0.192,-4.577,1,0.0422,120.91,5,0.533,by crooked steps king animal,"Kim Thayil, Ben Shepherd, Matt Cameron"
+A Thousand Days Before,King Animal,album,2012,Soundgarden,263,8.15e-05,0.416,0.905,0.00862,5,0.0761,-5.291,1,0.0575,114.742,4,0.158,a thousand days before king animal,"Chris Cornell, Kim Thayil"
+Blood On The Valley Floor,King Animal,album,2012,Soundgarden,228,0.00129,0.473,0.838,0.00253,5,0.101,-4.153,1,0.0373,137.967,4,0.707,blood on the valley floor king animal,"Chris Cornell, Kim Thayil"
+Bones Of Birds,King Animal,album,2012,Soundgarden,262,0.00557,0.555,0.724,0.00234,7,0.101,-5.561,1,0.0305,126.092,1,0.184,bones of birds king animal,Chris Cornell
+Taree,King Animal,album,2012,Soundgarden,218,9.23e-05,0.549,0.839,0.113,5,0.189,-4.444,1,0.0296,112.054,4,0.482,taree king animal,"Chris Cornell, Ben Shepherd"
+Attrition,King Animal,album,2012,Soundgarden,172,0.000109,0.395,0.948,0.000365,9,0.342,-4.959,0,0.0681,75.625,4,0.292,attrition king animal,Ben Shepherd
+Black Saturday,King Animal,album,2012,Soundgarden,209,0.00433,0.527,0.73,0.00019,9,0.101,-5.519,1,0.0359,156.139,4,0.485,black saturday king animal,Chris Cornell
+Halfway There,King Animal,album,2012,Soundgarden,196,0.00959,0.596,0.886,7.51e-05,0,0.118,-4.718,1,0.0302,104.923,4,0.198,halfway there king animal,Chris Cornell
+Worse Dreams,King Animal,album,2012,Soundgarden,293,0.000192,0.535,0.834,0.012,9,0.47,-4.834,1,0.0446,142.007,3,0.393,worse dreams king animal,Chris Cornell
+Eyelid's Mouth,King Animal,album,2012,Soundgarden,279,0.00404,0.268,0.657,0.0516,6,0.0731,-4.387,1,0.0366,182.684,4,0.403,eyelid's mouth king animal,"Chris Cornell, Matt Cameron"
+Rowing,King Animal,album,2012,Soundgarden,306,0.071,0.524,0.629,2.78e-05,9,0.113,-8.047,0,0.0409,115.958,4,0.502,rowing king animal,"Chris Cornell, Ben Shepherd"
+Worse Dreams - Demo,King Animal,album,2012,Soundgarden,200,0.00013,0.665,0.495,0.511,9,0.0888,-5.968,1,0.0438,141.967,3,0.269,worse dreams - demo king animal,
+Black Saturday - Demo,King Animal,album,2012,Soundgarden,196,0.0124,0.506,0.726,3.08e-06,5,0.119,-4.794,1,0.0295,154.201,4,0.426,black saturday - demo king animal,
+By Crooked Steps - Demo,King Animal,album,2012,Soundgarden,262,0.0558,0.446,0.702,0.353,2,0.0704,-7.061,1,0.0419,118.359,5,0.303,by crooked steps - demo king animal,
+Pretty Noose,Down On The Upside,album,1996,Soundgarden,251,1.79e-05,0.389,0.925,0.244,0,0.222,-7.97,1,0.0643,150.893,4,0.317,pretty noose down on the upside,Chris Cornell
+Rhinosaur,Down On The Upside,album,1996,Soundgarden,194,0.000471,0.406,0.775,0.00765,5,0.243,-8.791,0,0.0368,165.085,4,0.731,rhinosaur down on the upside,"Chris Cornell, Matt Cameron"
+Zero Chance,Down On The Upside,album,1996,Soundgarden,258,0.00359,0.457,0.569,5.06e-06,7,0.0746,-9.87,1,0.0266,137.28,4,0.219,zero chance down on the upside,"Chris Cornell, Ben Shepherd"
+Dusty,Down On The Upside,album,1996,Soundgarden,274,0.00341,0.376,0.862,0.00552,0,0.0948,-9.347,1,0.0352,160.104,4,0.733,dusty down on the upside,"Chris Cornell, Ben Shepherd"
+Ty Cobb,Down On The Upside,album,1996,Soundgarden,185,0.00117,0.475,0.989,0.426,0,0.0815,-9.261,1,0.0695,135.045,4,0.191,ty cobb down on the upside,"Chris Cornell, Ben Shepherd"
+Blow Up The Outside World,Down On The Upside,album,1996,Soundgarden,345,0.000807,0.33,0.529,0.214,9,0.126,-10.043,1,0.0358,140.156,4,0.148,blow up the outside world down on the upside,Chris Cornell
+Burden In My Hand,Down On The Upside,album,1996,Soundgarden,290,0.00534,0.319,0.803,0.0126,10,0.177,-8.928,1,0.0394,183.031,4,0.589,burden in my hand down on the upside,Chris Cornell
+Never Named,Down On The Upside,album,1996,Soundgarden,147,0.00526,0.305,0.894,1.33e-05,5,0.366,-8.4,0,0.0434,165.843,4,0.785,never named down on the upside,"Chris Cornell, Ben Shepherd"
+Applebite,Down On The Upside,album,1996,Soundgarden,309,0.0144,0.565,0.412,0.684,7,0.1,-12.604,1,0.0324,126.305,4,0.396,applebite down on the upside,"Chris Cornell, Matt Cameron"
+Never The Machine Forever,Down On The Upside,album,1996,Soundgarden,216,7.16e-05,0.481,0.96,0.926,5,0.121,-8.497,0,0.0827,123.163,4,0.285,never the machine forever down on the upside,Kim Thayil
+Tighter & Tighter,Down On The Upside,album,1996,Soundgarden,366,0.000402,0.26,0.725,0.0429,4,0.0626,-9.87,0,0.0397,141.518,4,0.492,tighter & tighter down on the upside,Chris Cornell
+No Attention,Down On The Upside,album,1996,Soundgarden,266,0.000461,0.254,0.959,1.86e-05,2,0.378,-8.411,1,0.0785,100.942,4,0.424,no attention down on the upside,Chris Cornell
+Switch Opens,Down On The Upside,album,1996,Soundgarden,232,0.0156,0.373,0.607,0.0105,2,0.104,-9.57,1,0.0302,108.867,3,0.494,switch opens down on the upside,"Chris Cornell, Ben Shepherd"
+Overfloater,Down On The Upside,album,1996,Soundgarden,308,0.0012,0.359,0.619,0.0187,0,0.0854,-9.979,1,0.0286,113.92,4,0.568,overfloater down on the upside,Chris Cornell
+An Unkind,Down On The Upside,album,1996,Soundgarden,128,0.000752,0.283,0.963,0.334,11,0.434,-8.417,0,0.14,139.814,4,0.264,an unkind down on the upside,Ben Shepherd
+Boot Camp,Down On The Upside,album,1996,Soundgarden,179,0.00921,0.511,0.493,0.154,7,0.108,-12.385,1,0.034,128.915,4,0.0403,boot camp down on the upside,Chris Cornell
+Let Me Drown,Superunknown,album,1994,Soundgarden,232,4.53e-05,0.148,0.947,0.00187,0,0.0872,-4.839,1,0.0958,187.413,4,0.566,let me drown superunknown,Chris Cornell
+My Wave,Superunknown,album,1994,Soundgarden,312,0.000132,0.509,0.95,0.00302,9,0.0937,-4.535,0,0.061,126.591,5,0.705,my wave superunknown,"Chris Cornell, Kim Thayil"
+Fell On Black Days,Superunknown,album,1994,Soundgarden,283,0.00152,0.574,0.739,0.000328,4,0.141,-5.745,0,0.0271,101.069,3,0.514,fell on black days superunknown,Chris Cornell
+Mailman,Superunknown,album,1994,Soundgarden,266,0.000425,0.443,0.682,7.47e-05,5,0.0833,-5.99,1,0.0313,96.211,4,0.429,mailman superunknown,"Chris Cornell, Matt Cameron"
+Superunknown,Superunknown,album,1994,Soundgarden,306,5.85e-05,0.291,0.949,0.233,0,0.856,-3.619,1,0.0574,133.93,4,0.296,superunknown superunknown,"Chris Cornell, Kim Thayil"
+Head Down,Superunknown,album,1994,Soundgarden,369,0.000135,0.413,0.825,0.252,5,0.108,-6.347,0,0.0346,83.185,4,0.565,head down superunknown,Ben Shepherd
+Black Hole Sun,Superunknown,album,1994,Soundgarden,318,0.000217,0.35,0.828,0.000161,6,0.0774,-5.373,1,0.041,105.435,4,0.147,black hole sun superunknown,Chris Cornell
+Spoonman,Superunknown,album,1994,Soundgarden,246,2.17e-05,0.457,0.902,0.196,7,0.258,-5.624,1,0.0313,92.711,4,0.834,spoonman superunknown,Chris Cornell
+Limo Wreck,Superunknown,album,1994,Soundgarden,347,0.000429,0.352,0.808,0.000634,7,0.0996,-4.907,1,0.0345,137.875,3,0.236,limo wreck superunknown,"Chris Cornell, Kim Thayil, Matt Cameron"
+The Day I Tried To Live,Superunknown,album,1994,Soundgarden,320,0.000164,0.472,0.752,0.181,0,0.0903,-6.051,1,0.0555,133.248,4,0.305,the day i tried to live superunknown,Chris Cornell
+Kickstand,Superunknown,album,1994,Soundgarden,94,7.47e-06,0.407,0.941,0.0169,9,0.343,-4.801,0,0.0409,91.662,4,0.655,kickstand superunknown,"Chris Cornell, Kim Thayil"
+Fresh Tendrils,Superunknown,album,1994,Soundgarden,256,2.32e-05,0.31,0.897,0.000879,0,0.13,-5.155,0,0.0498,175.944,4,0.44,fresh tendrils superunknown,"Chris Cornell, Matt Cameron"
+4th Of July,Superunknown,album,1994,Soundgarden,308,0.118,0.355,0.754,0.000936,5,0.175,-5.692,0,0.0378,142.203,4,0.201,4th of july superunknown,Chris Cornell
+Half,Superunknown,album,1994,Soundgarden,134,0.164,0.305,0.71,0.855,6,0.112,-8.296,1,0.0346,88.055,4,0.293,half superunknown,Ben Shepherd
+Like Suicide,Superunknown,album,1994,Soundgarden,423,8.77e-06,0.416,0.566,0.373,7,0.182,-6.342,1,0.0266,95.455,4,0.232,like suicide superunknown,Chris Cornell
+Ugly Truth,Louder Than Love,album,1989,Soundgarden,326,0.0102,0.387,0.573,0.0336,4,0.0528,-11.834,0,0.0403,129.98,3,0.465,ugly truth louder than love,Chris Cornell
+Hands All Over,Louder Than Love,album,1989,Soundgarden,360,0.00828,0.188,0.928,0.527,7,0.085,-10.003,1,0.0694,181.249,4,0.224,hands all over louder than love,"Chris Cornell, Kim Thayil"
+Gun,Louder Than Love,album,1989,Soundgarden,282,0.00239,0.361,0.903,0.38,9,0.0752,-11.478,1,0.0667,133.58,4,0.187,gun louder than love,Chris Cornell
+Power Trip,Louder Than Love,album,1989,Soundgarden,249,0.288,0.216,0.754,0.000179,9,0.0947,-10.199,0,0.0545,174.268,3,0.329,power trip louder than love,"Chris Cornell, Hiro Yamamoto"
+Get On The Snake,Louder Than Love,album,1989,Soundgarden,223,0.00423,0.361,0.882,0.0158,9,0.228,-10.568,1,0.0618,127.332,4,0.36,get on the snake louder than love,"Chris Cornell, Kim Thayil"
+Full On Kevin's Mom,Louder Than Love,album,1989,Soundgarden,217,0.0167,0.239,0.955,0.0816,9,0.112,-9.274,1,0.0608,136.502,4,0.164,full on kevin's mom louder than love,Chris Cornell
+Loud Love,Louder Than Love,album,1989,Soundgarden,297,0.006,0.34,0.797,0.0763,2,0.0781,-10.745,1,0.0535,135.407,4,0.19,loud love louder than love,Chris Cornell
+I Awake,Louder Than Love,album,1989,Soundgarden,261,0.311,0.568,0.626,0.148,4,0.106,-12.019,0,0.0391,124.531,3,0.208,i awake louder than love,Hiro Yamamoto
+No Wrong No Right,Louder Than Love,album,1989,Soundgarden,287,0.0323,0.304,0.718,3.4e-05,7,0.12,-10.645,0,0.0447,134.31,4,0.363,no wrong no right louder than love,"Chris Cornell, Hiro Yamamoto"
+Uncovered,Louder Than Love,album,1989,Soundgarden,270,0.248,0.379,0.82,0.000869,9,0.147,-11.449,0,0.0458,151.157,3,0.187,uncovered louder than love,Chris Cornell
+Big Dumb Sex,Louder Than Love,album,1989,Soundgarden,251,0.00551,0.267,0.848,0.000491,6,0.494,-9.546,0,0.0584,175.458,4,0.483,big dumb sex louder than love,Chris Cornell
+Full On,Louder Than Love,album,1989,Soundgarden,162,0.123,0.27,0.638,0.0518,9,0.359,-11.742,1,0.0506,132.472,4,0.304,full on louder than love,Chris Cornell
