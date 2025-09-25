@@ -1,9 +1,10 @@
 # Grunge-Dataset
-
-This project extracts, cleans, and analyzes song data from four grunge bands: Alice in Chains, Nirvana, Pearl Jam, and Soundgarden. Data extraction was done based on multiple sources (**Spotify**, **Wikipedia**, **AllMusic**, **Discogs**, **Billboard**). Using a combination of static and dynamic web scraping in Python with Jupyter Notebooks, a unified dataset (grunge.csv) was created containing 707 songs, each described by 97 variables.
-<br>
+This project extracts, cleans, and analyzes song data from four grunge bands: Alice in Chains, Nirvana, Pearl Jam, and Soundgarden. Data extraction was done based on multiple sources (**Spotify**, **Wikipedia**, **AllMusic**, **Discogs**, **Billboard**).
+<br><br>
+Using a combination of static and dynamic web scraping in Python with Jupyter Notebooks, a unified dataset (grunge.csv) was created containing 707 songs, each described by 97 variables.
+<br><br>
 The analysis applies exploratory methods and multiple machine learning models to uncover trends about success of grunge song on Billboard Charts.
-<br>
+<br><br>
 # Web Scraping
 **Folders** – Alice in Chains, Nirvana*, Pearl Jam, Soundgarden <br>
 These folders contain the code used for web scraping, organized by band.<br><br>
@@ -24,17 +25,13 @@ Each folder contains data extraction Jupyter Notebooks:
      * ```Data Extraction (Soundgarden).ipynb```
 4. Pearl Jam
     * ```Data Extraction (Pearl Jam).ipynb```
-<br>
-# Datasets
-**Folder** – All Bands
-This folder contains the code used to merge all four band datasets into a single dataset. The final dataset is named ```grunge.csv```
-
+<br><br>
 # Data Analysis
 
 * File 0: Exploratory data analysis<br>
 * Files 1, 2, and 3: Machine learning models (three different ones)<br>
 * File 4: Comparison of the results of the three models<br>
-<br>
+<br><br>
 
 ```
 |   Notes for Grunge Dataset.docx              # Notes, manual corrections etc.
