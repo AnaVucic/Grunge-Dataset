@@ -31,6 +31,7 @@ Each folder contains data extraction Jupyter Notebooks:
 * File 0: Exploratory data analysis<br>
 * Files 1, 2, and 3: Machine learning models (three different ones)<br>
 * File 4: Comparison of the results of the three models<br>
+* File 5: Comparing charting and popularity of the songs<br>
 <br><br>
 
 ```
@@ -57,6 +58,7 @@ Each folder contains data extraction Jupyter Notebooks:
 |       2. classification-model-comparison.ipynb
 |       3. k-nearest-neighbors-classification.ipynb
 |       4. classification-model-comparison.ipynb
+|       5. hit-song-forecasting.ipynb
 |
 +---Nirvana                                     # Data Extraction
 |   |   AllMusic Data Extraction.ipynb
